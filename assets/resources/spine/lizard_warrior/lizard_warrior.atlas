@@ -1,0 +1,446 @@
+
+lizard_warrior.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lizard_man_warrior_A_arms_left_00
+  rotate: false
+  xy: 493, 160
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_A_arms_left_01
+  rotate: false
+  xy: 355, 9
+  size: 55, 56
+  orig: 55, 56
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_A_arms_right_00
+  rotate: false
+  xy: 181, 60
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_A_arms_right_01
+  rotate: false
+  xy: 1035, 108
+  size: 47, 57
+  orig: 47, 57
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_A_body
+  rotate: false
+  xy: 742, 161
+  size: 88, 91
+  orig: 88, 91
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_A_chin
+  rotate: false
+  xy: 1545, 196
+  size: 66, 56
+  orig: 66, 56
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_A_eyes
+  rotate: false
+  xy: 1179, 59
+  size: 40, 15
+  orig: 40, 15
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_A_foot_left
+  rotate: false
+  xy: 996, 202
+  size: 87, 50
+  orig: 87, 50
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_A_foot_right
+  rotate: false
+  xy: 1263, 199
+  size: 69, 53
+  orig: 69, 53
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_A_hand_left
+  rotate: false
+  xy: 1334, 190
+  size: 69, 62
+  orig: 69, 62
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_A_hand_right
+  rotate: false
+  xy: 174, 0
+  size: 51, 58
+  orig: 51, 58
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_A_head
+  rotate: false
+  xy: 361, 139
+  size: 66, 49
+  orig: 66, 49
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_A_leg_left
+  rotate: false
+  xy: 1891, 196
+  size: 62, 56
+  orig: 62, 56
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_A_leg_right
+  rotate: false
+  xy: 1331, 132
+  size: 43, 56
+  orig: 43, 56
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_A_lower
+  rotate: false
+  xy: 996, 167
+  size: 59, 33
+  orig: 59, 33
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_A_neck
+  rotate: false
+  xy: 473, 62
+  size: 55, 68
+  orig: 55, 68
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_A_shoulder_left
+  rotate: false
+  xy: 1179, 76
+  size: 48, 54
+  orig: 48, 54
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_A_skirts
+  rotate: false
+  xy: 355, 67
+  size: 57, 70
+  orig: 57, 70
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_A_sword
+  rotate: false
+  xy: 0, 12
+  size: 172, 64
+  orig: 172, 64
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_A_tail
+  rotate: false
+  xy: 0, 166
+  size: 179, 86
+  orig: 179, 86
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_B_arms_left_00
+  rotate: false
+  xy: 1292, 169
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_B_arms_left_01
+  rotate: false
+  xy: 412, 2
+  size: 55, 56
+  orig: 55, 56
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_B_arms_right_00
+  rotate: false
+  xy: 259, 60
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_B_arms_right_01
+  rotate: false
+  xy: 1084, 108
+  size: 47, 57
+  orig: 47, 57
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_B_body
+  rotate: false
+  xy: 832, 162
+  size: 88, 90
+  orig: 88, 90
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_B_chin
+  rotate: false
+  xy: 1613, 196
+  size: 66, 56
+  orig: 66, 56
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_B_eyes
+  rotate: false
+  xy: 1421, 173
+  size: 40, 15
+  orig: 40, 15
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_B_foot_left
+  rotate: false
+  xy: 1085, 202
+  size: 87, 50
+  orig: 87, 50
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_B_foot_right
+  rotate: false
+  xy: 1681, 199
+  size: 69, 53
+  orig: 69, 53
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_B_hand_left
+  rotate: false
+  xy: 1405, 190
+  size: 69, 62
+  orig: 69, 62
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_B_hand_right
+  rotate: false
+  xy: 227, 0
+  size: 51, 58
+  orig: 51, 58
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_B_head
+  rotate: false
+  xy: 1476, 193
+  size: 67, 59
+  orig: 67, 59
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_B_leg_left
+  rotate: false
+  xy: 1955, 196
+  size: 62, 56
+  orig: 62, 56
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_B_leg_right
+  rotate: false
+  xy: 1376, 132
+  size: 43, 56
+  orig: 43, 56
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_B_lower
+  rotate: false
+  xy: 1057, 167
+  size: 59, 33
+  orig: 59, 33
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_B_neck
+  rotate: false
+  xy: 1179, 132
+  size: 55, 68
+  orig: 55, 68
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_B_shoulder_left
+  rotate: false
+  xy: 1133, 110
+  size: 44, 55
+  orig: 44, 55
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_B_skirts
+  rotate: false
+  xy: 414, 60
+  size: 57, 70
+  orig: 57, 70
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_B_sword
+  rotate: false
+  xy: 181, 100
+  size: 172, 64
+  orig: 172, 64
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_B_tail
+  rotate: false
+  xy: 0, 78
+  size: 179, 86
+  orig: 179, 86
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_C_arms_left_00
+  rotate: false
+  xy: 1292, 139
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_C_arms_left_01
+  rotate: false
+  xy: 922, 123
+  size: 55, 56
+  orig: 55, 56
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_C_arms_right_00
+  rotate: false
+  xy: 220, 60
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_C_arms_right_01
+  rotate: false
+  xy: 1229, 70
+  size: 47, 57
+  orig: 47, 57
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_C_body
+  rotate: false
+  xy: 651, 161
+  size: 89, 91
+  orig: 89, 91
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_C_chin
+  rotate: false
+  xy: 1823, 196
+  size: 66, 56
+  orig: 66, 56
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_C_eyes
+  rotate: false
+  xy: 1421, 156
+  size: 40, 15
+  orig: 40, 15
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_C_foot_left
+  rotate: false
+  xy: 1174, 202
+  size: 87, 50
+  orig: 87, 50
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_C_foot_right
+  rotate: false
+  xy: 1752, 199
+  size: 69, 53
+  orig: 69, 53
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_C_hand_left
+  rotate: false
+  xy: 922, 181
+  size: 72, 71
+  orig: 72, 71
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_C_hand_right
+  rotate: false
+  xy: 979, 104
+  size: 54, 61
+  orig: 54, 61
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_C_head
+  rotate: false
+  xy: 534, 174
+  size: 115, 78
+  orig: 115, 78
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_C_leg_left
+  rotate: false
+  xy: 429, 132
+  size: 62, 56
+  orig: 62, 56
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_C_leg_right
+  rotate: false
+  xy: 1278, 70
+  size: 42, 57
+  orig: 42, 57
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_C_lower
+  rotate: false
+  xy: 1118, 167
+  size: 59, 33
+  orig: 59, 33
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_C_neck
+  rotate: false
+  xy: 1236, 129
+  size: 54, 68
+  orig: 54, 68
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_C_shoulder_left
+  rotate: false
+  xy: 1133, 53
+  size: 44, 55
+  orig: 44, 55
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_C_skirts
+  rotate: false
+  xy: 297, 28
+  size: 56, 70
+  orig: 56, 70
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_C_sword
+  rotate: false
+  xy: 361, 190
+  size: 171, 62
+  orig: 171, 62
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_C_tail
+  rotate: false
+  xy: 181, 166
+  size: 178, 86
+  orig: 178, 86
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_eyes_00
+  rotate: false
+  xy: 1421, 139
+  size: 40, 15
+  orig: 40, 15
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_eyes_01
+  rotate: false
+  xy: 493, 143
+  size: 40, 15
+  orig: 40, 15
+  offset: 0, 0
+  index: -1
+lizard_man_warrior_eyes_02
+  rotate: false
+  xy: 1421, 122
+  size: 40, 15
+  orig: 40, 15
+  offset: 0, 0
+  index: -1

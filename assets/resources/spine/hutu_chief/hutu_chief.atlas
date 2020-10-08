@@ -1,0 +1,103 @@
+
+hutu_chief.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 56, 37
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 0, 85
+  size: 129, 156
+  orig: 129, 156
+  offset: 0, 0
+  index: -1
+head2
+  rotate: false
+  xy: 131, 85
+  size: 129, 156
+  orig: 129, 156
+  offset: 0, 0
+  index: -1
+head3
+  rotate: false
+  xy: 262, 85
+  size: 129, 156
+  orig: 129, 156
+  offset: 0, 0
+  index: -1
+l_arm
+  rotate: false
+  xy: 0, 27
+  size: 54, 56
+  orig: 54, 56
+  offset: 0, 0
+  index: -1
+l_foot
+  rotate: false
+  xy: 177, 57
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+l_leg
+  rotate: false
+  xy: 157, 56
+  size: 18, 27
+  orig: 18, 27
+  offset: 0, 0
+  index: -1
+pants_1
+  rotate: false
+  xy: 393, 154
+  size: 49, 38
+  orig: 49, 38
+  offset: 0, 0
+  index: -1
+pants_2
+  rotate: false
+  xy: 458, 203
+  size: 49, 38
+  orig: 49, 38
+  offset: 0, 0
+  index: -1
+pants_3
+  rotate: false
+  xy: 106, 45
+  size: 49, 38
+  orig: 49, 38
+  offset: 0, 0
+  index: -1
+r_arm
+  rotate: false
+  xy: 0, 0
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+r_foot
+  rotate: false
+  xy: 393, 128
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+r_hand
+  rotate: false
+  xy: 393, 194
+  size: 63, 47
+  orig: 63, 47
+  offset: 0, 0
+  index: -1
+r_leg
+  rotate: false
+  xy: 393, 99
+  size: 18, 27
+  orig: 18, 27
+  offset: 0, 0
+  index: -1

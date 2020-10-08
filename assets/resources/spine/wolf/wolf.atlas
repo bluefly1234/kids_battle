@@ -1,0 +1,292 @@
+
+wolf.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wolf_A_wolf_body
+  rotate: false
+  xy: 775, 37
+  size: 89, 87
+  orig: 89, 87
+  offset: 0, 0
+  index: -1
+wolf_A_wolf_chin
+  rotate: false
+  xy: 1333, 49
+  size: 72, 75
+  orig: 72, 75
+  offset: 0, 0
+  index: -1
+wolf_A_wolf_foot_back_00
+  rotate: false
+  xy: 1407, 66
+  size: 51, 58
+  orig: 51, 58
+  offset: 0, 0
+  index: -1
+wolf_A_wolf_foot_back_01
+  rotate: false
+  xy: 1759, 82
+  size: 56, 42
+  orig: 56, 42
+  offset: 0, 0
+  index: -1
+wolf_A_wolf_foot_front_00
+  rotate: false
+  xy: 1333, 0
+  size: 49, 47
+  orig: 49, 47
+  offset: 0, 0
+  index: -1
+wolf_A_wolf_foot_front_01
+  rotate: false
+  xy: 1926, 71
+  size: 42, 53
+  orig: 42, 53
+  offset: 0, 0
+  index: -1
+wolf_A_wolf_head
+  rotate: false
+  xy: 115, 15
+  size: 113, 109
+  orig: 113, 109
+  offset: 0, 0
+  index: -1
+wolf_A_wolf_leg_back_00
+  rotate: false
+  xy: 1566, 63
+  size: 43, 61
+  orig: 43, 61
+  offset: 0, 0
+  index: -1
+wolf_A_wolf_leg_front_00
+  rotate: false
+  xy: 1602, 23
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+wolf_A_wolf_leg_front_01
+  rotate: false
+  xy: 1435, 5
+  size: 39, 59
+  orig: 39, 59
+  offset: 0, 0
+  index: -1
+wolf_A_wolf_lower
+  rotate: false
+  xy: 555, 54
+  size: 108, 70
+  orig: 108, 70
+  offset: 0, 0
+  index: -1
+wolf_A_wolf_tail
+  rotate: false
+  xy: 957, 34
+  size: 74, 90
+  orig: 74, 90
+  offset: 0, 0
+  index: -1
+wolf_B_wolf_body
+  rotate: false
+  xy: 866, 37
+  size: 89, 87
+  orig: 89, 87
+  offset: 0, 0
+  index: -1
+wolf_B_wolf_chin
+  rotate: false
+  xy: 1185, 47
+  size: 72, 77
+  orig: 72, 77
+  offset: 0, 0
+  index: -1
+wolf_B_wolf_foot_back_00
+  rotate: false
+  xy: 1460, 66
+  size: 51, 58
+  orig: 51, 58
+  offset: 0, 0
+  index: -1
+wolf_B_wolf_foot_back_01
+  rotate: false
+  xy: 1701, 81
+  size: 56, 43
+  orig: 56, 43
+  offset: 0, 0
+  index: -1
+wolf_B_wolf_foot_front_00
+  rotate: false
+  xy: 1384, 0
+  size: 49, 47
+  orig: 49, 47
+  offset: 0, 0
+  index: -1
+wolf_B_wolf_foot_front_01
+  rotate: false
+  xy: 1970, 71
+  size: 42, 53
+  orig: 42, 53
+  offset: 0, 0
+  index: -1
+wolf_B_wolf_head
+  rotate: false
+  xy: 230, 15
+  size: 113, 109
+  orig: 113, 109
+  offset: 0, 0
+  index: -1
+wolf_B_wolf_leg_back_00
+  rotate: false
+  xy: 1611, 63
+  size: 43, 61
+  orig: 43, 61
+  offset: 0, 0
+  index: -1
+wolf_B_wolf_leg_front_00
+  rotate: false
+  xy: 1638, 23
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+wolf_B_wolf_leg_front_01
+  rotate: false
+  xy: 1476, 5
+  size: 39, 59
+  orig: 39, 59
+  offset: 0, 0
+  index: -1
+wolf_B_wolf_lower
+  rotate: false
+  xy: 665, 54
+  size: 108, 70
+  orig: 108, 70
+  offset: 0, 0
+  index: -1
+wolf_B_wolf_tail
+  rotate: false
+  xy: 1033, 34
+  size: 74, 90
+  orig: 74, 90
+  offset: 0, 0
+  index: -1
+wolf_C_wolf_body
+  rotate: false
+  xy: 345, 26
+  size: 92, 98
+  orig: 92, 98
+  offset: 0, 0
+  index: -1
+wolf_C_wolf_chin
+  rotate: false
+  xy: 1259, 48
+  size: 72, 76
+  orig: 72, 76
+  offset: 0, 0
+  index: -1
+wolf_C_wolf_foot_back_00
+  rotate: false
+  xy: 1513, 66
+  size: 51, 58
+  orig: 51, 58
+  offset: 0, 0
+  index: -1
+wolf_C_wolf_foot_back_01
+  rotate: false
+  xy: 1817, 82
+  size: 56, 42
+  orig: 56, 42
+  offset: 0, 0
+  index: -1
+wolf_C_wolf_foot_front_00
+  rotate: false
+  xy: 1875, 77
+  size: 49, 47
+  orig: 49, 47
+  offset: 0, 0
+  index: -1
+wolf_C_wolf_foot_front_01
+  rotate: false
+  xy: 1558, 8
+  size: 42, 53
+  orig: 42, 53
+  offset: 0, 0
+  index: -1
+wolf_C_wolf_head
+  rotate: false
+  xy: 0, 11
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+wolf_C_wolf_leg_back_00
+  rotate: false
+  xy: 1656, 62
+  size: 43, 62
+  orig: 43, 62
+  offset: 0, 0
+  index: -1
+wolf_C_wolf_leg_front_00
+  rotate: false
+  xy: 1236, 7
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+wolf_C_wolf_leg_front_01
+  rotate: false
+  xy: 1517, 6
+  size: 39, 58
+  orig: 39, 58
+  offset: 0, 0
+  index: -1
+wolf_C_wolf_lower
+  rotate: false
+  xy: 439, 53
+  size: 114, 71
+  orig: 114, 71
+  offset: 0, 0
+  index: -1
+wolf_C_wolf_tail
+  rotate: false
+  xy: 1109, 33
+  size: 74, 91
+  orig: 74, 91
+  offset: 0, 0
+  index: -1
+wolf_eyes_00
+  rotate: false
+  xy: 439, 29
+  size: 49, 22
+  orig: 49, 22
+  offset: 0, 0
+  index: -1
+wolf_eyes_01
+  rotate: false
+  xy: 490, 29
+  size: 49, 22
+  orig: 49, 22
+  offset: 0, 0
+  index: -1
+wolf_eyes_02
+  rotate: false
+  xy: 1701, 57
+  size: 49, 22
+  orig: 49, 22
+  offset: 0, 0
+  index: -1
+wolf_eyes_03
+  rotate: false
+  xy: 1185, 23
+  size: 49, 22
+  orig: 49, 22
+  offset: 0, 0
+  index: -1
+wolf_eyes_04
+  rotate: false
+  xy: 345, 2
+  size: 49, 22
+  orig: 49, 22
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,362 @@
+
+lizard_pat_warrior.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lizard_A_pat_warrior_arms_left_00
+  rotate: false
+  xy: 1918, 161
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+lizard_A_pat_warrior_arms_left_01
+  rotate: false
+  xy: 1342, 114
+  size: 106, 131
+  orig: 106, 131
+  offset: 0, 0
+  index: -1
+lizard_A_pat_warrior_arms_right_00
+  rotate: false
+  xy: 1996, 194
+  size: 48, 51
+  orig: 48, 51
+  offset: 0, 0
+  index: -1
+lizard_A_pat_warrior_arms_right_01
+  rotate: false
+  xy: 1217, 141
+  size: 123, 104
+  orig: 123, 104
+  offset: 0, 0
+  index: -1
+lizard_A_pat_warrior_body
+  rotate: false
+  xy: 520, 119
+  size: 124, 126
+  orig: 124, 126
+  offset: 0, 0
+  index: -1
+lizard_A_pat_warrior_chin
+  rotate: false
+  xy: 1566, 189
+  size: 78, 56
+  orig: 78, 56
+  offset: 0, 0
+  index: -1
+lizard_A_pat_warrior_eye
+  rotate: false
+  xy: 995, 117
+  size: 48, 15
+  orig: 48, 15
+  offset: 0, 0
+  index: -1
+lizard_A_pat_warrior_foot_left
+  rotate: false
+  xy: 161, 22
+  size: 52, 41
+  orig: 52, 41
+  offset: 0, 0
+  index: -1
+lizard_A_pat_warrior_foot_right
+  rotate: false
+  xy: 0, 0
+  size: 73, 31
+  orig: 73, 31
+  offset: 0, 0
+  index: -1
+lizard_A_pat_warrior_head
+  rotate: false
+  xy: 161, 65
+  size: 96, 45
+  orig: 96, 45
+  offset: 0, 0
+  index: -1
+lizard_A_pat_warrior_leg_left
+  rotate: false
+  xy: 1726, 199
+  size: 68, 46
+  orig: 68, 46
+  offset: 0, 0
+  index: -1
+lizard_A_pat_warrior_leg_right
+  rotate: false
+  xy: 1069, 120
+  size: 57, 46
+  orig: 57, 46
+  offset: 0, 0
+  index: -1
+lizard_A_pat_warrior_shoulder_left
+  rotate: false
+  xy: 1633, 33
+  size: 40, 48
+  orig: 40, 48
+  offset: 0, 0
+  index: -1
+lizard_A_pat_warrior_shoulder_right
+  rotate: false
+  xy: 1530, 117
+  size: 47, 55
+  orig: 47, 55
+  offset: 0, 0
+  index: -1
+lizard_A_pat_warrior_skirts
+  rotate: false
+  xy: 215, 16
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+lizard_A_pat_warrior_tail
+  rotate: false
+  xy: 0, 33
+  size: 159, 77
+  orig: 159, 77
+  offset: 0, 0
+  index: -1
+lizard_B_pat_warrior_arms_left_00
+  rotate: false
+  xy: 1725, 143
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+lizard_B_pat_warrior_arms_left_01
+  rotate: false
+  xy: 135, 112
+  size: 130, 133
+  orig: 130, 133
+  offset: 0, 0
+  index: -1
+lizard_B_pat_warrior_arms_right_00
+  rotate: false
+  xy: 1676, 137
+  size: 47, 50
+  orig: 47, 50
+  offset: 0, 0
+  index: -1
+lizard_B_pat_warrior_arms_right_01
+  rotate: false
+  xy: 395, 115
+  size: 123, 130
+  orig: 123, 130
+  offset: 0, 0
+  index: -1
+lizard_B_pat_warrior_body
+  rotate: false
+  xy: 646, 119
+  size: 124, 126
+  orig: 124, 126
+  offset: 0, 0
+  index: -1
+lizard_B_pat_warrior_chin
+  rotate: false
+  xy: 1646, 189
+  size: 78, 56
+  orig: 78, 56
+  offset: 0, 0
+  index: -1
+lizard_B_pat_warrior_eye
+  rotate: false
+  xy: 1726, 181
+  size: 48, 16
+  orig: 48, 16
+  offset: 0, 0
+  index: -1
+lizard_B_pat_warrior_foot_left
+  rotate: false
+  xy: 1579, 89
+  size: 52, 41
+  orig: 52, 41
+  offset: 0, 0
+  index: -1
+lizard_B_pat_warrior_foot_right
+  rotate: false
+  xy: 995, 134
+  size: 72, 32
+  orig: 72, 32
+  offset: 0, 0
+  index: -1
+lizard_B_pat_warrior_head
+  rotate: false
+  xy: 897, 121
+  size: 96, 45
+  orig: 96, 45
+  offset: 0, 0
+  index: -1
+lizard_B_pat_warrior_leg_left
+  rotate: false
+  xy: 1796, 199
+  size: 68, 46
+  orig: 68, 46
+  offset: 0, 0
+  index: -1
+lizard_B_pat_warrior_leg_right
+  rotate: false
+  xy: 1128, 120
+  size: 57, 46
+  orig: 57, 46
+  offset: 0, 0
+  index: -1
+lizard_B_pat_warrior_shoulder_left
+  rotate: false
+  xy: 1731, 93
+  size: 40, 48
+  orig: 40, 48
+  offset: 0, 0
+  index: -1
+lizard_B_pat_warrior_shoulder_right
+  rotate: false
+  xy: 1628, 132
+  size: 46, 55
+  orig: 46, 55
+  offset: 0, 0
+  index: -1
+lizard_B_pat_warrior_skirts
+  rotate: false
+  xy: 1633, 83
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+lizard_B_pat_warrior_tail
+  rotate: false
+  xy: 897, 168
+  size: 158, 77
+  orig: 158, 77
+  offset: 0, 0
+  index: -1
+lizard_C_pat_warrior_arms_left_00
+  rotate: false
+  xy: 1957, 162
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+lizard_C_pat_warrior_arms_left_01
+  rotate: false
+  xy: 0, 112
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+lizard_C_pat_warrior_arms_right_00
+  rotate: false
+  xy: 1682, 85
+  size: 47, 50
+  orig: 47, 50
+  offset: 0, 0
+  index: -1
+lizard_C_pat_warrior_arms_right_01
+  rotate: false
+  xy: 267, 114
+  size: 126, 131
+  orig: 126, 131
+  offset: 0, 0
+  index: -1
+lizard_C_pat_warrior_body
+  rotate: false
+  xy: 772, 119
+  size: 123, 126
+  orig: 123, 126
+  offset: 0, 0
+  index: -1
+lizard_C_pat_warrior_chin
+  rotate: false
+  xy: 1450, 115
+  size: 78, 57
+  orig: 78, 57
+  offset: 0, 0
+  index: -1
+lizard_C_pat_warrior_eye
+  rotate: false
+  xy: 1826, 183
+  size: 48, 14
+  orig: 48, 14
+  offset: 0, 0
+  index: -1
+lizard_C_pat_warrior_foot_left
+  rotate: false
+  xy: 1579, 47
+  size: 52, 40
+  orig: 52, 40
+  offset: 0, 0
+  index: -1
+lizard_C_pat_warrior_foot_right
+  rotate: false
+  xy: 75, 0
+  size: 72, 31
+  orig: 72, 31
+  offset: 0, 0
+  index: -1
+lizard_C_pat_warrior_head
+  rotate: false
+  xy: 1450, 174
+  size: 114, 71
+  orig: 114, 71
+  offset: 0, 0
+  index: -1
+lizard_C_pat_warrior_leg_left
+  rotate: false
+  xy: 1866, 199
+  size: 68, 46
+  orig: 68, 46
+  offset: 0, 0
+  index: -1
+lizard_C_pat_warrior_leg_right
+  rotate: false
+  xy: 1936, 199
+  size: 58, 46
+  orig: 58, 46
+  offset: 0, 0
+  index: -1
+lizard_C_pat_warrior_shoulder_left
+  rotate: false
+  xy: 1876, 149
+  size: 40, 48
+  orig: 40, 48
+  offset: 0, 0
+  index: -1
+lizard_C_pat_warrior_shoulder_right
+  rotate: false
+  xy: 1579, 132
+  size: 47, 55
+  orig: 47, 55
+  offset: 0, 0
+  index: -1
+lizard_C_pat_warrior_skirts
+  rotate: false
+  xy: 1530, 68
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+lizard_C_pat_warrior_tail
+  rotate: false
+  xy: 1057, 168
+  size: 158, 77
+  orig: 158, 77
+  offset: 0, 0
+  index: -1
+lizard_pat_warrior_eye_00
+  rotate: false
+  xy: 1776, 182
+  size: 48, 15
+  orig: 48, 15
+  offset: 0, 0
+  index: -1
+lizard_pat_warrior_eye_01
+  rotate: false
+  xy: 1996, 160
+  size: 36, 14
+  orig: 36, 14
+  offset: 0, 0
+  index: -1
+lizard_pat_warrior_eye_02
+  rotate: false
+  xy: 1996, 176
+  size: 40, 16
+  orig: 40, 16
+  offset: 0, 0
+  index: -1

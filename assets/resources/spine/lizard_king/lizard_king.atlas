@@ -1,0 +1,383 @@
+
+lizard_king.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lizard_king_A_arms_left_00
+  rotate: false
+  xy: 1799, 9
+  size: 81, 80
+  orig: 81, 80
+  offset: 0, 0
+  index: -1
+lizard_king_A_arms_left_01
+  rotate: false
+  xy: 1570, 372
+  size: 76, 135
+  orig: 76, 135
+  offset: 0, 0
+  index: -1
+lizard_king_A_arms_right_00
+  rotate: false
+  xy: 1951, 424
+  size: 72, 83
+  orig: 72, 83
+  offset: 0, 0
+  index: -1
+lizard_king_A_arms_right_01
+  rotate: false
+  xy: 1632, 251
+  size: 82, 119
+  orig: 82, 119
+  offset: 0, 0
+  index: -1
+lizard_king_A_body
+  rotate: false
+  xy: 0, 218
+  size: 237, 289
+  orig: 237, 289
+  offset: 0, 0
+  index: -1
+lizard_king_A_chin
+  rotate: false
+  xy: 1952, 196
+  size: 85, 79
+  orig: 85, 79
+  offset: 0, 0
+  index: -1
+lizard_king_A_eye
+  rotate: false
+  xy: 106, 4
+  size: 50, 17
+  orig: 50, 17
+  offset: 0, 0
+  index: -1
+lizard_king_A_foot_left
+  rotate: false
+  xy: 1903, 277
+  size: 135, 71
+  orig: 135, 71
+  offset: 0, 0
+  index: -1
+lizard_king_A_foot_right
+  rotate: false
+  xy: 1882, 22
+  size: 134, 70
+  orig: 134, 70
+  offset: 0, 0
+  index: -1
+lizard_king_A_hand_left
+  rotate: false
+  xy: 1199, 235
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+lizard_king_A_hand_right
+  rotate: false
+  xy: 1553, 0
+  size: 105, 95
+  orig: 105, 95
+  offset: 0, 0
+  index: -1
+lizard_king_A_head
+  rotate: false
+  xy: 1101, 342
+  size: 245, 165
+  orig: 245, 165
+  offset: 0, 0
+  index: -1
+lizard_king_A_leg_left
+  rotate: false
+  xy: 1660, 77
+  size: 113, 85
+  orig: 113, 85
+  offset: 0, 0
+  index: -1
+lizard_king_A_leg_right
+  rotate: false
+  xy: 1842, 424
+  size: 107, 83
+  orig: 107, 83
+  offset: 0, 0
+  index: -1
+lizard_king_A_shoulder_left
+  rotate: false
+  xy: 1320, 2
+  size: 92, 75
+  orig: 92, 75
+  offset: 0, 0
+  index: -1
+lizard_king_A_shoulder_right
+  rotate: false
+  xy: 1429, 237
+  size: 106, 123
+  orig: 106, 123
+  offset: 0, 0
+  index: -1
+lizard_king_A_tail
+  rotate: false
+  xy: 603, 39
+  size: 295, 189
+  orig: 295, 189
+  offset: 0, 0
+  index: -1
+lizard_king_B_arms_left_00
+  rotate: false
+  xy: 1765, 173
+  size: 83, 82
+  orig: 83, 82
+  offset: 0, 0
+  index: -1
+lizard_king_B_arms_left_01
+  rotate: false
+  xy: 1478, 97
+  size: 80, 138
+  orig: 80, 138
+  offset: 0, 0
+  index: -1
+lizard_king_B_arms_right_00
+  rotate: false
+  xy: 1767, 422
+  size: 73, 85
+  orig: 73, 85
+  offset: 0, 0
+  index: -1
+lizard_king_B_arms_right_01
+  rotate: false
+  xy: 1560, 105
+  size: 86, 130
+  orig: 86, 130
+  offset: 0, 0
+  index: -1
+lizard_king_B_body
+  rotate: false
+  xy: 484, 230
+  size: 237, 277
+  orig: 237, 277
+  offset: 0, 0
+  index: -1
+lizard_king_B_chin
+  rotate: false
+  xy: 1775, 91
+  size: 87, 80
+  orig: 87, 80
+  offset: 0, 0
+  index: -1
+lizard_king_B_eye
+  rotate: false
+  xy: 0, 4
+  size: 51, 17
+  orig: 51, 17
+  offset: 0, 0
+  index: -1
+lizard_king_B_foot_left
+  rotate: false
+  xy: 1716, 257
+  size: 136, 72
+  orig: 136, 72
+  offset: 0, 0
+  index: -1
+lizard_king_B_foot_right
+  rotate: false
+  xy: 1414, 5
+  size: 137, 72
+  orig: 137, 72
+  offset: 0, 0
+  index: -1
+lizard_king_B_hand_left
+  rotate: false
+  xy: 950, 231
+  size: 123, 106
+  orig: 123, 106
+  offset: 0, 0
+  index: -1
+lizard_king_B_hand_right
+  rotate: false
+  xy: 842, 230
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: -1
+lizard_king_B_head
+  rotate: false
+  xy: 849, 339
+  size: 250, 168
+  orig: 250, 168
+  offset: 0, 0
+  index: -1
+lizard_king_B_leg_left
+  rotate: false
+  xy: 1648, 164
+  size: 115, 85
+  orig: 115, 85
+  offset: 0, 0
+  index: -1
+lizard_king_B_leg_right
+  rotate: false
+  xy: 1716, 331
+  size: 110, 85
+  orig: 110, 85
+  offset: 0, 0
+  index: -1
+lizard_king_B_shoulder_left
+  rotate: false
+  xy: 1152, 68
+  size: 166, 161
+  orig: 166, 161
+  offset: 0, 0
+  index: -1
+lizard_king_B_shoulder_right
+  rotate: false
+  xy: 1320, 79
+  size: 156, 154
+  orig: 156, 154
+  offset: 0, 0
+  index: -1
+lizard_king_B_tail
+  rotate: false
+  xy: 302, 32
+  size: 299, 193
+  orig: 299, 193
+  offset: 0, 0
+  index: -1
+lizard_king_C_arms_left_00
+  rotate: false
+  xy: 1850, 175
+  size: 82, 80
+  orig: 82, 80
+  offset: 0, 0
+  index: -1
+lizard_king_C_arms_left_01
+  rotate: false
+  xy: 1482, 369
+  size: 86, 138
+  orig: 86, 138
+  offset: 0, 0
+  index: -1
+lizard_king_C_arms_right_00
+  rotate: false
+  xy: 1828, 335
+  size: 73, 85
+  orig: 73, 85
+  offset: 0, 0
+  index: -1
+lizard_king_C_arms_right_01
+  rotate: false
+  xy: 1537, 237
+  size: 93, 130
+  orig: 93, 130
+  offset: 0, 0
+  index: -1
+lizard_king_C_body
+  rotate: false
+  xy: 239, 227
+  size: 243, 280
+  orig: 243, 280
+  offset: 0, 0
+  index: -1
+lizard_king_C_chin
+  rotate: false
+  xy: 1864, 94
+  size: 86, 79
+  orig: 86, 79
+  offset: 0, 0
+  index: -1
+lizard_king_C_eye
+  rotate: false
+  xy: 53, 4
+  size: 51, 17
+  orig: 51, 17
+  offset: 0, 0
+  index: -1
+lizard_king_C_foot_left
+  rotate: false
+  xy: 1660, 3
+  size: 137, 72
+  orig: 137, 72
+  offset: 0, 0
+  index: -1
+lizard_king_C_foot_right
+  rotate: false
+  xy: 1903, 350
+  size: 136, 72
+  orig: 136, 72
+  offset: 0, 0
+  index: -1
+lizard_king_C_hand_left
+  rotate: false
+  xy: 1075, 231
+  size: 122, 106
+  orig: 122, 106
+  offset: 0, 0
+  index: -1
+lizard_king_C_hand_right
+  rotate: false
+  xy: 1321, 245
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: -1
+lizard_king_C_head
+  rotate: false
+  xy: 900, 60
+  size: 250, 168
+  orig: 250, 168
+  offset: 0, 0
+  index: -1
+lizard_king_C_leg_left
+  rotate: false
+  xy: 723, 230
+  size: 117, 95
+  orig: 117, 95
+  offset: 0, 0
+  index: -1
+lizard_king_C_leg_right
+  rotate: false
+  xy: 1648, 418
+  size: 117, 89
+  orig: 117, 89
+  offset: 0, 0
+  index: -1
+lizard_king_C_shoulder_left
+  rotate: false
+  xy: 1348, 362
+  size: 132, 145
+  orig: 132, 145
+  offset: 0, 0
+  index: -1
+lizard_king_C_shoulder_right
+  rotate: false
+  xy: 723, 327
+  size: 124, 180
+  orig: 124, 180
+  offset: 0, 0
+  index: -1
+lizard_king_C_tail
+  rotate: false
+  xy: 0, 23
+  size: 300, 193
+  orig: 300, 193
+  offset: 0, 0
+  index: -1
+lizard_king_eye_00
+  rotate: false
+  xy: 158, 4
+  size: 50, 17
+  orig: 50, 17
+  offset: 0, 0
+  index: -1
+lizard_king_eye_01
+  rotate: false
+  xy: 210, 4
+  size: 50, 17
+  orig: 50, 17
+  offset: 0, 0
+  index: -1
+lizard_king_eye_02
+  rotate: false
+  xy: 262, 4
+  size: 50, 17
+  orig: 50, 17
+  offset: 0, 0
+  index: -1

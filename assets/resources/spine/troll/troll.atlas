@@ -1,0 +1,376 @@
+
+troll.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+troll_A_arms_right
+  rotate: false
+  xy: 1203, 15
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+troll_A_body
+  rotate: false
+  xy: 1094, 52
+  size: 56, 72
+  orig: 56, 72
+  offset: 0, 0
+  index: -1
+troll_A_chin
+  rotate: false
+  xy: 1268, 63
+  size: 47, 61
+  orig: 47, 61
+  offset: 0, 0
+  index: -1
+troll_A_feathers
+  rotate: false
+  xy: 0, 10
+  size: 57, 39
+  orig: 57, 39
+  offset: 0, 0
+  index: -1
+troll_A_foot_left
+  rotate: false
+  xy: 1949, 100
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+troll_A_foot_right
+  rotate: false
+  xy: 1655, 98
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+troll_A_hand_left
+  rotate: false
+  xy: 469, 8
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+troll_A_hand_right
+  rotate: false
+  xy: 0, 51
+  size: 238, 73
+  orig: 238, 73
+  offset: 0, 0
+  index: -1
+troll_A_head
+  rotate: false
+  xy: 720, 0
+  size: 123, 124
+  orig: 123, 124
+  offset: 0, 0
+  index: -1
+troll_A_leg_left_00
+  rotate: false
+  xy: 109, 12
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+troll_A_leg_left_01
+  rotate: false
+  xy: 1559, 91
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+troll_A_leg_right_00
+  rotate: false
+  xy: 59, 14
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+troll_A_leg_right_01
+  rotate: false
+  xy: 1238, 11
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+troll_A_lower
+  rotate: false
+  xy: 355, 2
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+troll_A_shoulder_left
+  rotate: false
+  xy: 574, 10
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+troll_A_shoulder_right
+  rotate: false
+  xy: 235, 5
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+troll_B_arms_right
+  rotate: false
+  xy: 1524, 89
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+troll_B_body
+  rotate: false
+  xy: 1152, 52
+  size: 56, 72
+  orig: 56, 72
+  offset: 0, 0
+  index: -1
+troll_B_chin
+  rotate: false
+  xy: 1317, 63
+  size: 47, 61
+  orig: 47, 61
+  offset: 0, 0
+  index: -1
+troll_B_feathers
+  rotate: false
+  xy: 1094, 11
+  size: 57, 39
+  orig: 57, 39
+  offset: 0, 0
+  index: -1
+troll_B_foot_left
+  rotate: false
+  xy: 1969, 100
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+troll_B_foot_right
+  rotate: false
+  xy: 1691, 98
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+troll_B_hand_left
+  rotate: false
+  xy: 504, 8
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+troll_B_hand_right
+  rotate: false
+  xy: 240, 51
+  size: 238, 73
+  orig: 238, 73
+  offset: 0, 0
+  index: -1
+troll_B_head
+  rotate: false
+  xy: 845, 1
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+troll_B_leg_left_00
+  rotate: false
+  xy: 151, 12
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+troll_B_leg_left_01
+  rotate: false
+  xy: 1591, 91
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+troll_B_leg_right_00
+  rotate: false
+  xy: 1153, 15
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+troll_B_leg_right_01
+  rotate: false
+  xy: 1763, 85
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+troll_B_lower
+  rotate: false
+  xy: 393, 2
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+troll_B_shoulder_left
+  rotate: false
+  xy: 608, 10
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+troll_B_shoulder_right
+  rotate: false
+  xy: 275, 5
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+troll_C_arms_right
+  rotate: false
+  xy: 676, 14
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+troll_C_body
+  rotate: false
+  xy: 1210, 52
+  size: 56, 72
+  orig: 56, 72
+  offset: 0, 0
+  index: -1
+troll_C_chin
+  rotate: false
+  xy: 1366, 63
+  size: 47, 61
+  orig: 47, 61
+  offset: 0, 0
+  index: -1
+troll_C_feathers
+  rotate: false
+  xy: 1415, 85
+  size: 57, 39
+  orig: 57, 39
+  offset: 0, 0
+  index: -1
+troll_C_foot_left
+  rotate: false
+  xy: 1989, 100
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+troll_C_foot_right
+  rotate: false
+  xy: 1727, 98
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+troll_C_hand_left
+  rotate: false
+  xy: 539, 8
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+troll_C_hand_right
+  rotate: false
+  xy: 480, 51
+  size: 238, 73
+  orig: 238, 73
+  offset: 0, 0
+  index: -1
+troll_C_head
+  rotate: false
+  xy: 970, 1
+  size: 122, 123
+  orig: 122, 123
+  offset: 0, 0
+  index: -1
+troll_C_leg_left_00
+  rotate: false
+  xy: 193, 12
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+troll_C_leg_left_01
+  rotate: false
+  xy: 1623, 91
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+troll_C_leg_right_00
+  rotate: false
+  xy: 1474, 89
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+troll_C_leg_right_01
+  rotate: false
+  xy: 1791, 85
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+troll_C_lower
+  rotate: false
+  xy: 431, 2
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+troll_C_shoulder_left
+  rotate: false
+  xy: 642, 10
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+troll_C_shoulder_right
+  rotate: false
+  xy: 315, 5
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+troll_eye_00
+  rotate: false
+  xy: 1819, 102
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+troll_eye_01
+  rotate: false
+  xy: 1845, 102
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+troll_eye_02
+  rotate: false
+  xy: 1871, 102
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+troll_eye_03
+  rotate: false
+  xy: 1897, 102
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+troll_eye_04
+  rotate: false
+  xy: 1923, 102
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1

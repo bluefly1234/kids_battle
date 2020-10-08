@@ -1,0 +1,425 @@
+
+orc_warrior.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+orc_warrior_A_arms_left_00
+  rotate: false
+  xy: 979, 171
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+orc_warrior_A_arms_left_01
+  rotate: false
+  xy: 439, 62
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+orc_warrior_A_arms_right_00
+  rotate: false
+  xy: 814, 118
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+orc_warrior_A_arms_right_01
+  rotate: false
+  xy: 300, 0
+  size: 47, 25
+  orig: 47, 25
+  offset: 0, 0
+  index: -1
+orc_warrior_A_body
+  rotate: false
+  xy: 771, 169
+  size: 79, 83
+  orig: 79, 83
+  offset: 0, 0
+  index: -1
+orc_warrior_A_chin
+  rotate: false
+  xy: 715, 92
+  size: 47, 30
+  orig: 47, 30
+  offset: 0, 0
+  index: -1
+orc_warrior_A_eye_00
+  rotate: false
+  xy: 373, 111
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1
+orc_warrior_A_eye_01
+  rotate: false
+  xy: 736, 83
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1
+orc_warrior_A_foot_left
+  rotate: false
+  xy: 480, 65
+  size: 40, 45
+  orig: 40, 45
+  offset: 0, 0
+  index: -1
+orc_warrior_A_foot_right
+  rotate: false
+  xy: 921, 121
+  size: 54, 45
+  orig: 54, 45
+  offset: 0, 0
+  index: -1
+orc_warrior_A_hand_left
+  rotate: false
+  xy: 632, 125
+  size: 45, 41
+  orig: 45, 41
+  offset: 0, 0
+  index: -1
+orc_warrior_A_head
+  rotate: false
+  xy: 852, 151
+  size: 67, 101
+  orig: 67, 101
+  offset: 0, 0
+  index: -1
+orc_warrior_A_leg_left
+  rotate: false
+  xy: 674, 82
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+orc_warrior_A_leg_right
+  rotate: false
+  xy: 447, 0
+  size: 46, 25
+  orig: 46, 25
+  offset: 0, 0
+  index: -1
+orc_warrior_A_shield
+  rotate: false
+  xy: 605, 168
+  size: 82, 84
+  orig: 82, 84
+  offset: 0, 0
+  index: -1
+orc_warrior_A_shoulder_left
+  rotate: false
+  xy: 203, 80
+  size: 60, 58
+  orig: 60, 58
+  offset: 0, 0
+  index: -1
+orc_warrior_A_shoulder_right
+  rotate: false
+  xy: 147, 68
+  size: 54, 63
+  orig: 54, 63
+  offset: 0, 0
+  index: -1
+orc_warrior_A_skirts
+  rotate: false
+  xy: 300, 27
+  size: 64, 43
+  orig: 64, 43
+  offset: 0, 0
+  index: -1
+orc_warrior_A_weapon
+  rotate: false
+  xy: 465, 112
+  size: 55, 140
+  orig: 55, 140
+  offset: 0, 0
+  index: -1
+orc_warrior_B_arms_left_00
+  rotate: false
+  xy: 979, 135
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+orc_warrior_B_arms_left_01
+  rotate: false
+  xy: 578, 61
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+orc_warrior_B_arms_right_00
+  rotate: false
+  xy: 813, 92
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+orc_warrior_B_arms_right_01
+  rotate: false
+  xy: 349, 0
+  size: 47, 25
+  orig: 47, 25
+  offset: 0, 0
+  index: -1
+orc_warrior_B_body
+  rotate: false
+  xy: 689, 167
+  size: 80, 85
+  orig: 80, 85
+  offset: 0, 0
+  index: -1
+orc_warrior_B_chin
+  rotate: false
+  xy: 366, 27
+  size: 49, 39
+  orig: 49, 39
+  offset: 0, 0
+  index: -1
+orc_warrior_B_eye_00
+  rotate: false
+  xy: 736, 74
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1
+orc_warrior_B_eye_01
+  rotate: false
+  xy: 480, 56
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1
+orc_warrior_B_foot_left
+  rotate: false
+  xy: 772, 123
+  size: 40, 44
+  orig: 40, 44
+  offset: 0, 0
+  index: -1
+orc_warrior_B_foot_right
+  rotate: false
+  xy: 522, 60
+  size: 54, 45
+  orig: 54, 45
+  offset: 0, 0
+  index: -1
+orc_warrior_B_hand_left
+  rotate: false
+  xy: 726, 124
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+orc_warrior_B_head
+  rotate: false
+  xy: 305, 139
+  size: 92, 113
+  orig: 92, 113
+  offset: 0, 0
+  index: -1
+orc_warrior_B_leg_left
+  rotate: false
+  xy: 632, 82
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+orc_warrior_B_leg_right
+  rotate: false
+  xy: 398, 0
+  size: 47, 25
+  orig: 47, 25
+  offset: 0, 0
+  index: -1
+orc_warrior_B_shield
+  rotate: false
+  xy: 202, 140
+  size: 101, 112
+  orig: 101, 112
+  offset: 0, 0
+  index: -1
+orc_warrior_B_shoulder_left
+  rotate: false
+  xy: 522, 107
+  size: 64, 53
+  orig: 64, 53
+  offset: 0, 0
+  index: -1
+orc_warrior_B_shoulder_right
+  rotate: false
+  xy: 204, 16
+  size: 52, 62
+  orig: 52, 62
+  offset: 0, 0
+  index: -1
+orc_warrior_B_skirts
+  rotate: false
+  xy: 78, 22
+  size: 65, 44
+  orig: 65, 44
+  offset: 0, 0
+  index: -1
+orc_warrior_B_weapon
+  rotate: false
+  xy: 399, 108
+  size: 64, 144
+  orig: 64, 144
+  offset: 0, 0
+  index: -1
+orc_warrior_C_arms_left_00
+  rotate: false
+  xy: 977, 99
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+orc_warrior_C_arms_left_01
+  rotate: false
+  xy: 979, 207
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+orc_warrior_C_arms_right_00
+  rotate: false
+  xy: 814, 143
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+orc_warrior_C_arms_right_01
+  rotate: false
+  xy: 764, 93
+  size: 47, 28
+  orig: 47, 28
+  offset: 0, 0
+  index: -1
+orc_warrior_C_body
+  rotate: false
+  xy: 522, 162
+  size: 81, 90
+  orig: 81, 90
+  offset: 0, 0
+  index: -1
+orc_warrior_C_chin
+  rotate: false
+  xy: 373, 68
+  size: 64, 38
+  orig: 64, 38
+  offset: 0, 0
+  index: -1
+orc_warrior_C_eye_00
+  rotate: false
+  xy: 373, 120
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+orc_warrior_C_eye_01
+  rotate: false
+  xy: 715, 77
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+orc_warrior_C_foot_left
+  rotate: false
+  xy: 320, 72
+  size: 51, 65
+  orig: 51, 65
+  offset: 0, 0
+  index: -1
+orc_warrior_C_foot_right
+  rotate: false
+  xy: 145, 16
+  size: 57, 50
+  orig: 57, 50
+  offset: 0, 0
+  index: -1
+orc_warrior_C_hair
+  rotate: false
+  xy: 921, 168
+  size: 56, 84
+  orig: 56, 84
+  offset: 0, 0
+  index: -1
+orc_warrior_C_hand_left
+  rotate: false
+  xy: 679, 124
+  size: 45, 41
+  orig: 45, 41
+  offset: 0, 0
+  index: -1
+orc_warrior_C_head
+  rotate: false
+  xy: 78, 68
+  size: 67, 63
+  orig: 67, 63
+  offset: 0, 0
+  index: -1
+orc_warrior_C_leg_left
+  rotate: false
+  xy: 588, 113
+  size: 42, 47
+  orig: 42, 47
+  offset: 0, 0
+  index: -1
+orc_warrior_C_leg_right
+  rotate: false
+  xy: 417, 27
+  size: 53, 33
+  orig: 53, 33
+  offset: 0, 0
+  index: -1
+orc_warrior_C_shield
+  rotate: false
+  xy: 78, 133
+  size: 122, 119
+  orig: 122, 119
+  offset: 0, 0
+  index: -1
+orc_warrior_C_shoulder_left
+  rotate: false
+  xy: 0, 5
+  size: 64, 47
+  orig: 64, 47
+  offset: 0, 0
+  index: -1
+orc_warrior_C_shoulder_right
+  rotate: false
+  xy: 265, 79
+  size: 53, 58
+  orig: 53, 58
+  offset: 0, 0
+  index: -1
+orc_warrior_C_skirts
+  rotate: false
+  xy: 258, 17
+  size: 40, 60
+  orig: 40, 60
+  offset: 0, 0
+  index: -1
+orc_warrior_C_weapon
+  rotate: false
+  xy: 0, 54
+  size: 76, 198
+  orig: 76, 198
+  offset: 0, 0
+  index: -1
+orc_warrior_eye_00
+  rotate: false
+  xy: 498, 56
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1
+orc_warrior_eye_01
+  rotate: false
+  xy: 258, 8
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1

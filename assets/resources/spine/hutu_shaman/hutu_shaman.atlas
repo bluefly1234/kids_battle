@@ -1,0 +1,173 @@
+
+hutu_shaman.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 9
+  size: 128, 98
+  orig: 128, 98
+  offset: 0, 0
+  index: -1
+body2
+  rotate: false
+  xy: 130, 9
+  size: 128, 98
+  orig: 128, 98
+  offset: 0, 0
+  index: -1
+body3
+  rotate: false
+  xy: 260, 9
+  size: 128, 98
+  orig: 128, 98
+  offset: 0, 0
+  index: -1
+haed
+  rotate: false
+  xy: 390, 17
+  size: 92, 90
+  orig: 92, 90
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 0, 109
+  size: 175, 140
+  orig: 175, 140
+  offset: 0, 0
+  index: -1
+hat2
+  rotate: false
+  xy: 177, 109
+  size: 175, 140
+  orig: 175, 140
+  offset: 0, 0
+  index: -1
+hat3
+  rotate: false
+  xy: 354, 109
+  size: 175, 140
+  orig: 175, 140
+  offset: 0, 0
+  index: -1
+head2
+  rotate: false
+  xy: 484, 17
+  size: 92, 90
+  orig: 92, 90
+  offset: 0, 0
+  index: -1
+head3
+  rotate: false
+  xy: 531, 159
+  size: 92, 90
+  orig: 92, 90
+  offset: 0, 0
+  index: -1
+l_arm
+  rotate: false
+  xy: 768, 166
+  size: 57, 83
+  orig: 57, 83
+  offset: 0, 0
+  index: -1
+l_arm2
+  rotate: false
+  xy: 827, 166
+  size: 57, 83
+  orig: 57, 83
+  offset: 0, 0
+  index: -1
+l_arm3
+  rotate: false
+  xy: 864, 0
+  size: 57, 83
+  orig: 57, 83
+  offset: 0, 0
+  index: -1
+l_hand
+  rotate: false
+  xy: 886, 168
+  size: 65, 81
+  orig: 65, 81
+  offset: 0, 0
+  index: -1
+l_hand2
+  rotate: false
+  xy: 953, 168
+  size: 65, 81
+  orig: 65, 81
+  offset: 0, 0
+  index: -1
+l_hand3
+  rotate: false
+  xy: 886, 85
+  size: 65, 81
+  orig: 65, 81
+  offset: 0, 0
+  index: -1
+pants
+  rotate: false
+  xy: 578, 72
+  size: 141, 85
+  orig: 141, 85
+  offset: 0, 0
+  index: -1
+pants2
+  rotate: false
+  xy: 625, 164
+  size: 141, 85
+  orig: 141, 85
+  offset: 0, 0
+  index: -1
+pants3
+  rotate: false
+  xy: 721, 77
+  size: 141, 85
+  orig: 141, 85
+  offset: 0, 0
+  index: -1
+r_arm
+  rotate: false
+  xy: 721, 1
+  size: 36, 74
+  orig: 36, 74
+  offset: 0, 0
+  index: -1
+r_arm2
+  rotate: false
+  xy: 759, 1
+  size: 36, 74
+  orig: 36, 74
+  offset: 0, 0
+  index: -1
+r_arm3
+  rotate: false
+  xy: 797, 1
+  size: 36, 74
+  orig: 36, 74
+  offset: 0, 0
+  index: -1
+r_hand
+  rotate: false
+  xy: 923, 1
+  size: 42, 82
+  orig: 42, 82
+  offset: 0, 0
+  index: -1
+r_hand2
+  rotate: false
+  xy: 967, 84
+  size: 42, 82
+  orig: 42, 82
+  offset: 0, 0
+  index: -1
+r_hand3
+  rotate: false
+  xy: 967, 0
+  size: 42, 82
+  orig: 42, 82
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,292 @@
+
+mummy.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mummy_A_arms_left
+  rotate: false
+  xy: 394, 92
+  size: 44, 32
+  orig: 44, 32
+  offset: 0, 0
+  index: -1
+mummy_A_arms_right
+  rotate: false
+  xy: 0, 0
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+mummy_A_body
+  rotate: false
+  xy: 484, 85
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+mummy_A_eyes_00
+  rotate: false
+  xy: 256, 62
+  size: 41, 17
+  orig: 41, 17
+  offset: 0, 0
+  index: -1
+mummy_A_eyes_01
+  rotate: false
+  xy: 877, 107
+  size: 41, 17
+  orig: 41, 17
+  offset: 0, 0
+  index: -1
+mummy_A_eyes_02
+  rotate: false
+  xy: 920, 107
+  size: 41, 17
+  orig: 41, 17
+  offset: 0, 0
+  index: -1
+mummy_A_head
+  rotate: false
+  xy: 190, 51
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+mummy_A_leg_left
+  rotate: false
+  xy: 657, 80
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
+mummy_A_leg_right
+  rotate: false
+  xy: 688, 83
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+mummy_A_mouth_00
+  rotate: false
+  xy: 299, 25
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+mummy_A_mouth_01
+  rotate: false
+  xy: 345, 69
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+mummy_A_mouth_02
+  rotate: false
+  xy: 373, 69
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+mummy_A_mouth_03
+  rotate: false
+  xy: 388, 8
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+mummy_B_arms_left
+  rotate: false
+  xy: 440, 91
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+mummy_B_arms_right
+  rotate: false
+  xy: 43, 0
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+mummy_B_body
+  rotate: false
+  xy: 524, 84
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: -1
+mummy_B_eyes_00
+  rotate: false
+  xy: 963, 107
+  size: 41, 17
+  orig: 41, 17
+  offset: 0, 0
+  index: -1
+mummy_B_eyes_01
+  rotate: false
+  xy: 783, 86
+  size: 41, 17
+  orig: 41, 17
+  offset: 0, 0
+  index: -1
+mummy_B_eyes_02
+  rotate: false
+  xy: 826, 86
+  size: 41, 17
+  orig: 41, 17
+  offset: 0, 0
+  index: -1
+mummy_B_head
+  rotate: false
+  xy: 103, 29
+  size: 85, 95
+  orig: 85, 95
+  offset: 0, 0
+  index: -1
+mummy_B_leg_left
+  rotate: false
+  xy: 596, 78
+  size: 28, 46
+  orig: 28, 46
+  offset: 0, 0
+  index: -1
+mummy_B_leg_right
+  rotate: false
+  xy: 331, 18
+  size: 26, 40
+  orig: 26, 40
+  offset: 0, 0
+  index: -1
+mummy_B_mouth_00
+  rotate: false
+  xy: 716, 88
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+mummy_B_mouth_01
+  rotate: false
+  xy: 359, 5
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+mummy_B_mouth_02
+  rotate: false
+  xy: 389, 28
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+mummy_B_mouth_03
+  rotate: false
+  xy: 418, 27
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+mummy_C_arms_left
+  rotate: false
+  xy: 345, 89
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+mummy_C_arms_right
+  rotate: false
+  xy: 256, 81
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+mummy_C_body
+  rotate: false
+  xy: 302, 79
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+mummy_C_eyes_00
+  rotate: false
+  xy: 190, 30
+  size: 45, 19
+  orig: 45, 19
+  offset: 0, 0
+  index: -1
+mummy_C_eyes_01
+  rotate: false
+  xy: 783, 105
+  size: 45, 19
+  orig: 45, 19
+  offset: 0, 0
+  index: -1
+mummy_C_eyes_02
+  rotate: false
+  xy: 830, 105
+  size: 45, 19
+  orig: 45, 19
+  offset: 0, 0
+  index: -1
+mummy_C_head
+  rotate: false
+  xy: 0, 41
+  size: 101, 83
+  orig: 101, 83
+  offset: 0, 0
+  index: -1
+mummy_C_leg_left
+  rotate: false
+  xy: 563, 74
+  size: 31, 50
+  orig: 31, 50
+  offset: 0, 0
+  index: -1
+mummy_C_leg_right
+  rotate: false
+  xy: 626, 79
+  size: 29, 45
+  orig: 29, 45
+  offset: 0, 0
+  index: -1
+mummy_C_mouth_00
+  rotate: false
+  xy: 749, 89
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+mummy_C_mouth_01
+  rotate: false
+  xy: 359, 37
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+mummy_C_mouth_02
+  rotate: false
+  xy: 401, 60
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+mummy_C_mouth_03
+  rotate: false
+  xy: 431, 59
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+mummy_eyes_00
+  rotate: false
+  xy: 299, 60
+  size: 41, 17
+  orig: 41, 17
+  offset: 0, 0
+  index: -1
+mummy_eyes_01
+  rotate: false
+  xy: 256, 43
+  size: 41, 17
+  orig: 41, 17
+  offset: 0, 0
+  index: -1

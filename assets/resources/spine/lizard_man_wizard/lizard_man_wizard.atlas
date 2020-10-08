@@ -1,0 +1,369 @@
+
+lizard_man_wizard.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lizard_man_A_foot_left
+  rotate: false
+  xy: 689, 149
+  size: 64, 41
+  orig: 64, 41
+  offset: 0, 0
+  index: -1
+lizard_man_A_foot_right
+  rotate: false
+  xy: 547, 80
+  size: 64, 44
+  orig: 64, 44
+  offset: 0, 0
+  index: -1
+lizard_man_A_leg_left
+  rotate: false
+  xy: 632, 126
+  size: 55, 49
+  orig: 55, 49
+  offset: 0, 0
+  index: -1
+lizard_man_A_leg_right
+  rotate: false
+  xy: 755, 132
+  size: 58, 46
+  orig: 58, 46
+  offset: 0, 0
+  index: -1
+lizard_man_A_wizard_arms_left_00
+  rotate: false
+  xy: 981, 215
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+lizard_man_A_wizard_arms_left_01
+  rotate: false
+  xy: 443, 64
+  size: 49, 72
+  orig: 49, 72
+  offset: 0, 0
+  index: -1
+lizard_man_A_wizard_arms_right_00
+  rotate: false
+  xy: 981, 184
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+lizard_man_A_wizard_arms_right_01
+  rotate: false
+  xy: 812, 108
+  size: 45, 22
+  orig: 45, 22
+  offset: 0, 0
+  index: -1
+lizard_man_A_wizard_body
+  rotate: false
+  xy: 448, 139
+  size: 108, 113
+  orig: 108, 113
+  offset: 0, 0
+  index: -1
+lizard_man_A_wizard_chin
+  rotate: false
+  xy: 558, 126
+  size: 72, 49
+  orig: 72, 49
+  offset: 0, 0
+  index: -1
+lizard_man_A_wizard_eys_00
+  rotate: false
+  xy: 85, 22
+  size: 45, 13
+  orig: 45, 13
+  offset: 0, 0
+  index: -1
+lizard_man_A_wizard_eys_01
+  rotate: false
+  xy: 861, 90
+  size: 47, 18
+  orig: 47, 18
+  offset: 0, 0
+  index: -1
+lizard_man_A_wizard_eys_02
+  rotate: false
+  xy: 668, 44
+  size: 44, 17
+  orig: 44, 17
+  offset: 0, 0
+  index: -1
+lizard_man_A_wizard_head
+  rotate: false
+  xy: 670, 192
+  size: 111, 60
+  orig: 111, 60
+  offset: 0, 0
+  index: -1
+lizard_man_A_wizard_skirts
+  rotate: false
+  xy: 377, 0
+  size: 54, 62
+  orig: 54, 62
+  offset: 0, 0
+  index: -1
+lizard_man_A_wizard_staff
+  rotate: false
+  xy: 85, 37
+  size: 69, 215
+  orig: 69, 215
+  offset: 0, 0
+  index: -1
+lizard_man_A_wizard_tail
+  rotate: false
+  xy: 344, 64
+  size: 97, 72
+  orig: 97, 72
+  offset: 0, 0
+  index: -1
+lizard_man_B_foot_left
+  rotate: false
+  xy: 689, 106
+  size: 64, 41
+  orig: 64, 41
+  offset: 0, 0
+  index: -1
+lizard_man_B_foot_right
+  rotate: false
+  xy: 613, 80
+  size: 64, 44
+  orig: 64, 44
+  offset: 0, 0
+  index: -1
+lizard_man_B_leg_left
+  rotate: false
+  xy: 935, 129
+  size: 55, 49
+  orig: 55, 49
+  offset: 0, 0
+  index: -1
+lizard_man_B_leg_right
+  rotate: false
+  xy: 815, 132
+  size: 58, 46
+  orig: 58, 46
+  offset: 0, 0
+  index: -1
+lizard_man_B_wizard_arms_left_00
+  rotate: false
+  xy: 910, 90
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+lizard_man_B_wizard_arms_left_01
+  rotate: false
+  xy: 551, 6
+  size: 49, 72
+  orig: 49, 72
+  offset: 0, 0
+  index: -1
+lizard_man_B_wizard_arms_right_00
+  rotate: false
+  xy: 907, 59
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+lizard_man_B_wizard_arms_right_01
+  rotate: false
+  xy: 0, 4
+  size: 46, 22
+  orig: 46, 22
+  offset: 0, 0
+  index: -1
+lizard_man_B_wizard_body
+  rotate: false
+  xy: 227, 138
+  size: 109, 114
+  orig: 109, 114
+  offset: 0, 0
+  index: -1
+lizard_man_B_wizard_chin
+  rotate: false
+  xy: 227, 0
+  size: 73, 48
+  orig: 73, 48
+  offset: 0, 0
+  index: -1
+lizard_man_B_wizard_eys_00
+  rotate: false
+  xy: 668, 29
+  size: 45, 13
+  orig: 45, 13
+  offset: 0, 0
+  index: -1
+lizard_man_B_wizard_eys_01
+  rotate: false
+  xy: 812, 87
+  size: 47, 19
+  orig: 47, 19
+  offset: 0, 0
+  index: -1
+lizard_man_B_wizard_eys_02
+  rotate: false
+  xy: 744, 62
+  size: 44, 17
+  orig: 44, 17
+  offset: 0, 0
+  index: -1
+lizard_man_B_wizard_head
+  rotate: false
+  xy: 558, 177
+  size: 110, 75
+  orig: 110, 75
+  offset: 0, 0
+  index: -1
+lizard_man_B_wizard_skirts
+  rotate: false
+  xy: 494, 0
+  size: 55, 63
+  orig: 55, 63
+  offset: 0, 0
+  index: -1
+lizard_man_B_wizard_staff
+  rotate: false
+  xy: 156, 40
+  size: 69, 212
+  orig: 69, 212
+  offset: 0, 0
+  index: -1
+lizard_man_B_wizard_tail
+  rotate: false
+  xy: 783, 180
+  size: 97, 72
+  orig: 97, 72
+  offset: 0, 0
+  index: -1
+lizard_man_C_foot_left
+  rotate: false
+  xy: 679, 63
+  size: 63, 41
+  orig: 63, 41
+  offset: 0, 0
+  index: -1
+lizard_man_C_foot_right
+  rotate: false
+  xy: 602, 34
+  size: 64, 44
+  orig: 64, 44
+  offset: 0, 0
+  index: -1
+lizard_man_C_leg_left
+  rotate: false
+  xy: 755, 81
+  size: 55, 49
+  orig: 55, 49
+  offset: 0, 0
+  index: -1
+lizard_man_C_leg_right
+  rotate: false
+  xy: 875, 132
+  size: 58, 46
+  orig: 58, 46
+  offset: 0, 0
+  index: -1
+lizard_man_C_wizard_arms_left_00
+  rotate: false
+  xy: 942, 90
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+lizard_man_C_wizard_arms_left_01
+  rotate: false
+  xy: 494, 65
+  size: 51, 72
+  orig: 51, 72
+  offset: 0, 0
+  index: -1
+lizard_man_C_wizard_arms_right_00
+  rotate: false
+  xy: 940, 59
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+lizard_man_C_wizard_arms_right_01
+  rotate: false
+  xy: 602, 9
+  size: 45, 23
+  orig: 45, 23
+  offset: 0, 0
+  index: -1
+lizard_man_C_wizard_body
+  rotate: false
+  xy: 338, 138
+  size: 108, 114
+  orig: 108, 114
+  offset: 0, 0
+  index: -1
+lizard_man_C_wizard_chin
+  rotate: false
+  xy: 302, 0
+  size: 73, 48
+  orig: 73, 48
+  offset: 0, 0
+  index: -1
+lizard_man_C_wizard_eys_00
+  rotate: false
+  xy: 156, 24
+  size: 44, 14
+  orig: 44, 14
+  offset: 0, 0
+  index: -1
+lizard_man_C_wizard_eys_01
+  rotate: false
+  xy: 859, 110
+  size: 47, 20
+  orig: 47, 20
+  offset: 0, 0
+  index: -1
+lizard_man_C_wizard_eys_02
+  rotate: false
+  xy: 861, 71
+  size: 44, 17
+  orig: 44, 17
+  offset: 0, 0
+  index: -1
+lizard_man_C_wizard_head
+  rotate: false
+  xy: 227, 50
+  size: 115, 86
+  orig: 115, 86
+  offset: 0, 0
+  index: -1
+lizard_man_C_wizard_skirts
+  rotate: false
+  xy: 433, 0
+  size: 54, 62
+  orig: 54, 62
+  offset: 0, 0
+  index: -1
+lizard_man_C_wizard_staff
+  rotate: false
+  xy: 0, 28
+  size: 83, 224
+  orig: 83, 224
+  offset: 0, 0
+  index: -1
+lizard_man_C_wizard_tail
+  rotate: false
+  xy: 882, 180
+  size: 97, 72
+  orig: 97, 72
+  offset: 0, 0
+  index: -1
+lizard_man_wizard_eys_00
+  rotate: false
+  xy: 812, 72
+  size: 45, 13
+  orig: 45, 13
+  offset: 0, 0
+  index: -1

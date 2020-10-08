@@ -1,0 +1,180 @@
+
+mushrooms.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue_arm_01
+  rotate: false
+  xy: 927, 92
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+blue_arm_02
+  rotate: false
+  xy: 956, 91
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+blue_base
+  rotate: false
+  xy: 572, 65
+  size: 92, 59
+  orig: 92, 59
+  offset: 0, 0
+  index: -1
+blue_hat
+  rotate: false
+  xy: 331, 9
+  size: 137, 115
+  orig: 137, 115
+  offset: 0, 0
+  index: -1
+blue_normal_eyes
+  rotate: false
+  xy: 850, 88
+  size: 41, 16
+  orig: 41, 16
+  offset: 0, 0
+  index: -1
+blue_normal_mouth
+  rotate: false
+  xy: 819, 74
+  size: 16, 6
+  orig: 16, 6
+  offset: 0, 0
+  index: -1
+die_eyes
+  rotate: false
+  xy: 276, 16
+  size: 47, 13
+  orig: 47, 13
+  offset: 0, 0
+  index: -1
+die_mouth
+  rotate: false
+  xy: 572, 52
+  size: 33, 11
+  orig: 33, 11
+  offset: 0, 0
+  index: -1
+knife_01
+  rotate: false
+  xy: 666, 70
+  size: 49, 54
+  orig: 49, 54
+  offset: 0, 0
+  index: -1
+knife_02
+  rotate: false
+  xy: 717, 70
+  size: 49, 54
+  orig: 49, 54
+  offset: 0, 0
+  index: -1
+knife_03
+  rotate: false
+  xy: 768, 70
+  size: 49, 54
+  orig: 49, 54
+  offset: 0, 0
+  index: -1
+red_arm_01
+  rotate: false
+  xy: 985, 90
+  size: 23, 34
+  orig: 23, 34
+  offset: 0, 0
+  index: -1
+red_arm_02
+  rotate: false
+  xy: 819, 82
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+red_base
+  rotate: false
+  xy: 470, 53
+  size: 100, 71
+  orig: 100, 71
+  offset: 0, 0
+  index: -1
+red_hat
+  rotate: false
+  xy: 169, 31
+  size: 160, 93
+  orig: 160, 93
+  offset: 0, 0
+  index: -1
+red_normal_eyes
+  rotate: false
+  xy: 850, 106
+  size: 45, 18
+  orig: 45, 18
+  offset: 0, 0
+  index: -1
+red_normal_mouth
+  rotate: false
+  xy: 0, 0
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+stun_eyes
+  rotate: false
+  xy: 169, 11
+  size: 56, 18
+  orig: 56, 18
+  offset: 0, 0
+  index: -1
+stun_mouth
+  rotate: false
+  xy: 589, 33
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+yellow_arm_01
+  rotate: false
+  xy: 571, 17
+  size: 16, 33
+  orig: 16, 33
+  offset: 0, 0
+  index: -1
+yellow_arm_02
+  rotate: false
+  xy: 897, 103
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+yellow_base
+  rotate: false
+  xy: 470, 0
+  size: 99, 51
+  orig: 99, 51
+  offset: 0, 0
+  index: -1
+yellow_hat
+  rotate: false
+  xy: 0, 10
+  size: 167, 114
+  orig: 167, 114
+  offset: 0, 0
+  index: -1
+yellow_normal_eyes
+  rotate: false
+  xy: 227, 12
+  size: 47, 17
+  orig: 47, 17
+  offset: 0, 0
+  index: -1
+yellow_normal_mouth
+  rotate: false
+  xy: 607, 56
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1

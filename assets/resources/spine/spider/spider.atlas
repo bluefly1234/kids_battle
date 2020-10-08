@@ -1,0 +1,558 @@
+
+spider.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+spider_A_body
+  rotate: false
+  xy: 93, 31
+  size: 81, 93
+  orig: 81, 93
+  offset: 0, 0
+  index: -1
+spider_A_eye_00
+  rotate: false
+  xy: 964, 107
+  size: 46, 17
+  orig: 46, 17
+  offset: 0, 0
+  index: -1
+spider_A_eye_01
+  rotate: false
+  xy: 608, 44
+  size: 46, 18
+  orig: 46, 18
+  offset: 0, 0
+  index: -1
+spider_A_eye_02
+  rotate: false
+  xy: 432, 8
+  size: 46, 22
+  orig: 46, 22
+  offset: 0, 0
+  index: -1
+spider_A_head
+  rotate: false
+  xy: 903, 75
+  size: 59, 49
+  orig: 59, 49
+  offset: 0, 0
+  index: -1
+spider_A_leg_left_00
+  rotate: false
+  xy: 577, 1
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+spider_A_leg_left_01
+  rotate: false
+  xy: 427, 55
+  size: 23, 69
+  orig: 23, 69
+  offset: 0, 0
+  index: -1
+spider_A_leg_left_02
+  rotate: false
+  xy: 998, 18
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+spider_A_leg_left_03
+  rotate: false
+  xy: 665, 67
+  size: 25, 57
+  orig: 25, 57
+  offset: 0, 0
+  index: -1
+spider_A_leg_left_04
+  rotate: false
+  xy: 314, 16
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+spider_A_leg_left_05
+  rotate: false
+  xy: 665, 24
+  size: 23, 41
+  orig: 23, 41
+  offset: 0, 0
+  index: -1
+spider_A_leg_right_00
+  rotate: false
+  xy: 742, 2
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+spider_A_leg_right_01
+  rotate: false
+  xy: 506, 62
+  size: 30, 62
+  orig: 30, 62
+  offset: 0, 0
+  index: -1
+spider_A_leg_right_02
+  rotate: false
+  xy: 964, 30
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+spider_A_leg_right_03
+  rotate: false
+  xy: 742, 22
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+spider_A_leg_right_04
+  rotate: false
+  xy: 519, 0
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+spider_A_leg_right_05
+  rotate: false
+  xy: 538, 29
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+spider_A_mouth_left
+  rotate: false
+  xy: 721, 36
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+spider_A_mouth_right
+  rotate: false
+  xy: 820, 4
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+spider_B_body
+  rotate: false
+  xy: 9, 31
+  size: 82, 93
+  orig: 82, 93
+  offset: 0, 0
+  index: -1
+spider_B_eye_00
+  rotate: false
+  xy: 964, 68
+  size: 45, 17
+  orig: 45, 17
+  offset: 0, 0
+  index: -1
+spider_B_eye_01
+  rotate: false
+  xy: 951, 4
+  size: 45, 18
+  orig: 45, 18
+  offset: 0, 0
+  index: -1
+spider_B_eye_02
+  rotate: false
+  xy: 452, 32
+  size: 47, 22
+  orig: 47, 22
+  offset: 0, 0
+  index: -1
+spider_B_head
+  rotate: false
+  xy: 842, 74
+  size: 59, 50
+  orig: 59, 50
+  offset: 0, 0
+  index: -1
+spider_B_leg_left_00
+  rotate: false
+  xy: 998, 0
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+spider_B_leg_left_01
+  rotate: false
+  xy: 369, 53
+  size: 13, 71
+  orig: 13, 71
+  offset: 0, 0
+  index: -1
+spider_B_leg_left_02
+  rotate: false
+  xy: 964, 50
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+spider_B_leg_left_03
+  rotate: false
+  xy: 399, 55
+  size: 26, 69
+  orig: 26, 69
+  offset: 0, 0
+  index: -1
+spider_B_leg_left_04
+  rotate: false
+  xy: 333, 9
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+spider_B_leg_left_05
+  rotate: false
+  xy: 580, 19
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+spider_B_leg_right_00
+  rotate: false
+  xy: 432, 32
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+spider_B_leg_right_01
+  rotate: false
+  xy: 623, 64
+  size: 40, 60
+  orig: 40, 60
+  offset: 0, 0
+  index: -1
+spider_B_leg_right_02
+  rotate: false
+  xy: 608, 1
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+spider_B_leg_right_03
+  rotate: false
+  xy: 692, 68
+  size: 48, 56
+  orig: 48, 56
+  offset: 0, 0
+  index: -1
+spider_B_leg_right_04
+  rotate: false
+  xy: 707, 6
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+spider_B_leg_right_05
+  rotate: false
+  xy: 776, 39
+  size: 42, 28
+  orig: 42, 28
+  offset: 0, 0
+  index: -1
+spider_B_mouth_left
+  rotate: false
+  xy: 721, 4
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+spider_B_mouth_right
+  rotate: false
+  xy: 820, 36
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+spider_C_body
+  rotate: false
+  xy: 176, 32
+  size: 82, 92
+  orig: 82, 92
+  offset: 0, 0
+  index: -1
+spider_C_eye_00
+  rotate: false
+  xy: 608, 24
+  size: 46, 18
+  orig: 46, 18
+  offset: 0, 0
+  index: -1
+spider_C_eye_01
+  rotate: false
+  xy: 903, 4
+  size: 46, 18
+  orig: 46, 18
+  offset: 0, 0
+  index: -1
+spider_C_eye_02
+  rotate: false
+  xy: 381, 5
+  size: 46, 22
+  orig: 46, 22
+  offset: 0, 0
+  index: -1
+spider_C_head
+  rotate: false
+  xy: 903, 24
+  size: 59, 49
+  orig: 59, 49
+  offset: 0, 0
+  index: -1
+spider_C_leg_left_00
+  rotate: false
+  xy: 218, 14
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+spider_C_leg_left_01
+  rotate: false
+  xy: 384, 54
+  size: 13, 70
+  orig: 13, 70
+  offset: 0, 0
+  index: -1
+spider_C_leg_left_02
+  rotate: false
+  xy: 242, 14
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+spider_C_leg_left_03
+  rotate: false
+  xy: 452, 56
+  size: 25, 68
+  orig: 25, 68
+  offset: 0, 0
+  index: -1
+spider_C_leg_left_04
+  rotate: false
+  xy: 314, 0
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+spider_C_leg_left_05
+  rotate: false
+  xy: 692, 24
+  size: 27, 42
+  orig: 27, 42
+  offset: 0, 0
+  index: -1
+spider_C_leg_right_00
+  rotate: false
+  xy: 628, 1
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+spider_C_leg_right_01
+  rotate: false
+  xy: 580, 64
+  size: 41, 60
+  orig: 41, 60
+  offset: 0, 0
+  index: -1
+spider_C_leg_right_02
+  rotate: false
+  xy: 648, 1
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+spider_C_leg_right_03
+  rotate: false
+  xy: 742, 69
+  size: 48, 55
+  orig: 48, 55
+  offset: 0, 0
+  index: -1
+spider_C_leg_right_04
+  rotate: false
+  xy: 567, 44
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+spider_C_leg_right_05
+  rotate: false
+  xy: 534, 0
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+spider_C_mouth_left
+  rotate: false
+  xy: 176, 0
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+spider_C_mouth_right
+  rotate: false
+  xy: 480, 0
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+spider_D_body
+  rotate: false
+  xy: 260, 32
+  size: 81, 92
+  orig: 81, 92
+  offset: 0, 0
+  index: -1
+spider_D_eye_00
+  rotate: false
+  xy: 964, 87
+  size: 45, 18
+  orig: 45, 18
+  offset: 0, 0
+  index: -1
+spider_D_eye_01
+  rotate: false
+  xy: 842, 3
+  size: 46, 18
+  orig: 46, 18
+  offset: 0, 0
+  index: -1
+spider_D_eye_02
+  rotate: false
+  xy: 384, 29
+  size: 46, 23
+  orig: 46, 23
+  offset: 0, 0
+  index: -1
+spider_D_head
+  rotate: false
+  xy: 842, 23
+  size: 59, 49
+  orig: 59, 49
+  offset: 0, 0
+  index: -1
+spider_D_leg_left_00
+  rotate: false
+  xy: 266, 14
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+spider_D_leg_left_01
+  rotate: false
+  xy: 343, 53
+  size: 24, 71
+  orig: 24, 71
+  offset: 0, 0
+  index: -1
+spider_D_leg_left_02
+  rotate: false
+  xy: 290, 14
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+spider_D_leg_left_03
+  rotate: false
+  xy: 479, 56
+  size: 25, 68
+  orig: 25, 68
+  offset: 0, 0
+  index: -1
+spider_D_leg_left_04
+  rotate: false
+  xy: 502, 0
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+spider_D_leg_left_05
+  rotate: false
+  xy: 506, 17
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+spider_D_leg_right_00
+  rotate: false
+  xy: 688, 1
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+spider_D_leg_right_01
+  rotate: false
+  xy: 538, 63
+  size: 40, 61
+  orig: 40, 61
+  offset: 0, 0
+  index: -1
+spider_D_leg_right_02
+  rotate: false
+  xy: 668, 1
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+spider_D_leg_right_03
+  rotate: false
+  xy: 792, 69
+  size: 48, 55
+  orig: 48, 55
+  offset: 0, 0
+  index: -1
+spider_D_leg_right_04
+  rotate: false
+  xy: 890, 5
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+spider_D_leg_right_05
+  rotate: false
+  xy: 776, 10
+  size: 42, 27
+  orig: 42, 27
+  offset: 0, 0
+  index: -1
+spider_D_mouth_left
+  rotate: false
+  xy: 197, 0
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+spider_D_mouth_right
+  rotate: false
+  xy: 998, 36
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+spider_cobweb
+  rotate: false
+  xy: 0, 21
+  size: 7, 103
+  orig: 7, 103
+  offset: 0, 0
+  index: -1
+spider_eye_00
+  rotate: false
+  xy: 343, 40
+  size: 38, 11
+  orig: 38, 11
+  offset: 0, 0
+  index: -1
+spider_eye_01
+  rotate: false
+  xy: 343, 25
+  size: 36, 13
+  orig: 36, 13
+  offset: 0, 0
+  index: -1

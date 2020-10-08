@@ -1,0 +1,698 @@
+
+boss_wyvern.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wyvern_B_arms_00
+  rotate: false
+  xy: 637, 618
+  size: 72, 56
+  orig: 72, 56
+  offset: 0, 0
+  index: -1
+wyvern_B_arms_01
+  rotate: false
+  xy: 1646, 760
+  size: 76, 40
+  orig: 76, 40
+  offset: 0, 0
+  index: -1
+wyvern_B_body
+  rotate: false
+  xy: 1432, 604
+  size: 135, 132
+  orig: 135, 132
+  offset: 0, 0
+  index: -1
+wyvern_B_chin
+  rotate: false
+  xy: 201, 244
+  size: 104, 83
+  orig: 104, 83
+  offset: 0, 0
+  index: -1
+wyvern_B_eyes_00
+  rotate: false
+  xy: 214, 0
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+wyvern_B_eyes_01
+  rotate: false
+  xy: 233, 0
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+wyvern_B_eyes_02
+  rotate: false
+  xy: 252, 0
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+wyvern_B_eyes_03
+  rotate: false
+  xy: 1011, 822
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+wyvern_B_foot_00
+  rotate: false
+  xy: 1978, 572
+  size: 48, 87
+  orig: 48, 87
+  offset: 0, 0
+  index: -1
+wyvern_B_foot_01
+  rotate: false
+  xy: 461, 245
+  size: 49, 78
+  orig: 49, 78
+  offset: 0, 0
+  index: -1
+wyvern_B_head
+  rotate: false
+  xy: 864, 714
+  size: 145, 134
+  orig: 145, 134
+  offset: 0, 0
+  index: -1
+wyvern_B_neck_00
+  rotate: false
+  xy: 391, 139
+  size: 72, 85
+  orig: 72, 85
+  offset: 0, 0
+  index: -1
+wyvern_B_neck_01
+  rotate: false
+  xy: 307, 140
+  size: 82, 85
+  orig: 82, 85
+  offset: 0, 0
+  index: -1
+wyvern_B_neck_02
+  rotate: false
+  xy: 391, 226
+  size: 68, 89
+  orig: 68, 89
+  offset: 0, 0
+  index: -1
+wyvern_B_oral
+  rotate: false
+  xy: 307, 227
+  size: 82, 88
+  orig: 82, 88
+  offset: 0, 0
+  index: -1
+wyvern_B_thigh_00
+  rotate: false
+  xy: 433, 325
+  size: 64, 81
+  orig: 64, 81
+  offset: 0, 0
+  index: -1
+wyvern_B_thigh_01
+  rotate: false
+  xy: 1298, 627
+  size: 68, 63
+  orig: 68, 63
+  offset: 0, 0
+  index: -1
+wyvern_B_wings_00
+  rotate: false
+  xy: 214, 843
+  size: 212, 177
+  orig: 212, 177
+  offset: 0, 0
+  index: -1
+wyvern_B_wings_01
+  rotate: false
+  xy: 1055, 802
+  size: 221, 108
+  orig: 221, 108
+  offset: 0, 0
+  index: -1
+wyvern_B_wings_01-1
+  rotate: false
+  xy: 641, 775
+  size: 221, 73
+  orig: 221, 73
+  offset: 0, 0
+  index: -1
+wyvern_B_wings_02
+  rotate: false
+  xy: 1278, 802
+  size: 221, 108
+  orig: 221, 108
+  offset: 0, 0
+  index: -1
+wyvern_B_wings_03
+  rotate: false
+  xy: 0, 295
+  size: 199, 186
+  orig: 199, 186
+  offset: 0, 0
+  index: -1
+wyvern_B_wings_back_00
+  rotate: false
+  xy: 0, 483
+  size: 212, 177
+  orig: 212, 177
+  offset: 0, 0
+  index: -1
+wyvern_B_wings_back_01
+  rotate: false
+  xy: 1055, 912
+  size: 222, 108
+  orig: 222, 108
+  offset: 0, 0
+  index: -1
+wyvern_B_wings_back_02
+  rotate: false
+  xy: 1279, 912
+  size: 222, 108
+  orig: 222, 108
+  offset: 0, 0
+  index: -1
+wyvern_B_wings_back_03
+  rotate: false
+  xy: 214, 664
+  size: 212, 177
+  orig: 212, 177
+  offset: 0, 0
+  index: -1
+wyvern_C_arms_00
+  rotate: false
+  xy: 711, 618
+  size: 71, 56
+  orig: 71, 56
+  offset: 0, 0
+  index: -1
+wyvern_C_arms_01
+  rotate: false
+  xy: 201, 119
+  size: 75, 40
+  orig: 75, 40
+  offset: 0, 0
+  index: -1
+wyvern_C_body
+  rotate: false
+  xy: 1569, 604
+  size: 135, 132
+  orig: 135, 132
+  offset: 0, 0
+  index: -1
+wyvern_C_chin
+  rotate: false
+  xy: 201, 161
+  size: 104, 81
+  orig: 104, 81
+  offset: 0, 0
+  index: -1
+wyvern_C_eyes_00
+  rotate: false
+  xy: 479, 411
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+wyvern_C_eyes_01
+  rotate: false
+  xy: 1030, 591
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+wyvern_C_eyes_02
+  rotate: false
+  xy: 1030, 822
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+wyvern_C_eyes_03
+  rotate: false
+  xy: 498, 411
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+wyvern_C_foot_00
+  rotate: false
+  xy: 1978, 661
+  size: 49, 88
+  orig: 49, 88
+  offset: 0, 0
+  index: -1
+wyvern_C_foot_01
+  rotate: false
+  xy: 465, 165
+  size: 48, 78
+  orig: 48, 78
+  offset: 0, 0
+  index: -1
+wyvern_C_head
+  rotate: false
+  xy: 1843, 566
+  size: 133, 160
+  orig: 133, 160
+  offset: 0, 0
+  index: -1
+wyvern_C_neck_00
+  rotate: false
+  xy: 933, 626
+  size: 73, 86
+  orig: 73, 86
+  offset: 0, 0
+  index: -1
+wyvern_C_neck_01
+  rotate: false
+  xy: 849, 627
+  size: 82, 85
+  orig: 82, 85
+  offset: 0, 0
+  index: -1
+wyvern_C_neck_02
+  rotate: false
+  xy: 214, 28
+  size: 68, 89
+  orig: 68, 89
+  offset: 0, 0
+  index: -1
+wyvern_C_oral
+  rotate: false
+  xy: 1947, 751
+  size: 81, 88
+  orig: 81, 88
+  offset: 0, 0
+  index: -1
+wyvern_C_thigh_00
+  rotate: false
+  xy: 413, 408
+  size: 64, 82
+  orig: 64, 82
+  offset: 0, 0
+  index: -1
+wyvern_C_thigh_01
+  rotate: false
+  xy: 520, 604
+  size: 67, 64
+  orig: 67, 64
+  offset: 0, 0
+  index: -1
+wyvern_C_wings_00
+  rotate: false
+  xy: 428, 842
+  size: 211, 178
+  orig: 211, 178
+  offset: 0, 0
+  index: -1
+wyvern_C_wings_01
+  rotate: false
+  xy: 1501, 802
+  size: 221, 108
+  orig: 221, 108
+  offset: 0, 0
+  index: -1
+wyvern_C_wings_01-1
+  rotate: false
+  xy: 1724, 728
+  size: 221, 73
+  orig: 221, 73
+  offset: 0, 0
+  index: -1
+wyvern_C_wings_02
+  rotate: false
+  xy: 1724, 803
+  size: 221, 107
+  orig: 221, 107
+  offset: 0, 0
+  index: -1
+wyvern_C_wings_03
+  rotate: false
+  xy: 0, 107
+  size: 199, 186
+  orig: 199, 186
+  offset: 0, 0
+  index: -1
+wyvern_C_wings_back_00
+  rotate: false
+  xy: 0, 842
+  size: 212, 178
+  orig: 212, 178
+  offset: 0, 0
+  index: -1
+wyvern_C_wings_back_01
+  rotate: false
+  xy: 1503, 912
+  size: 222, 108
+  orig: 222, 108
+  offset: 0, 0
+  index: -1
+wyvern_C_wings_back_02
+  rotate: false
+  xy: 1727, 912
+  size: 222, 108
+  orig: 222, 108
+  offset: 0, 0
+  index: -1
+wyvern_C_wings_back_03
+  rotate: false
+  xy: 0, 662
+  size: 212, 178
+  orig: 212, 178
+  offset: 0, 0
+  index: -1
+wyvern_arms_00
+  rotate: false
+  xy: 637, 563
+  size: 69, 53
+  orig: 69, 53
+  offset: 0, 0
+  index: -1
+wyvern_arms_01
+  rotate: false
+  xy: 284, 8
+  size: 74, 39
+  orig: 74, 39
+  offset: 0, 0
+  index: -1
+wyvern_body
+  rotate: false
+  xy: 1706, 594
+  size: 135, 132
+  orig: 135, 132
+  offset: 0, 0
+  index: -1
+wyvern_chin
+  rotate: false
+  xy: 328, 317
+  size: 103, 81
+  orig: 103, 81
+  offset: 0, 0
+  index: -1
+wyvern_eyes_00
+  rotate: false
+  xy: 1049, 591
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+wyvern_eyes_01
+  rotate: false
+  xy: 2029, 727
+  size: 15, 22
+  orig: 15, 22
+  offset: 0, 0
+  index: -1
+wyvern_eyes_02
+  rotate: false
+  xy: 2028, 636
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+wyvern_eyes_03
+  rotate: false
+  xy: 1947, 728
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+wyvern_foot_00
+  rotate: false
+  xy: 448, 54
+  size: 50, 83
+  orig: 50, 83
+  offset: 0, 0
+  index: -1
+wyvern_foot_01
+  rotate: false
+  xy: 589, 591
+  size: 46, 77
+  orig: 46, 77
+  offset: 0, 0
+  index: -1
+wyvern_head
+  rotate: false
+  xy: 201, 329
+  size: 125, 152
+  orig: 125, 152
+  offset: 0, 0
+  index: -1
+wyvern_neck_00
+  rotate: false
+  xy: 1090, 618
+  size: 68, 83
+  orig: 68, 83
+  offset: 0, 0
+  index: -1
+wyvern_neck_01
+  rotate: false
+  xy: 1008, 619
+  size: 80, 82
+  orig: 80, 82
+  offset: 0, 0
+  index: -1
+wyvern_neck_02
+  rotate: false
+  xy: 1978, 841
+  size: 66, 87
+  orig: 66, 87
+  offset: 0, 0
+  index: -1
+wyvern_oral
+  rotate: false
+  xy: 284, 49
+  size: 80, 89
+  orig: 80, 89
+  offset: 0, 0
+  index: -1
+wyvern_tail_00
+  rotate: false
+  xy: 366, 48
+  size: 80, 89
+  orig: 80, 89
+  offset: 0, 0
+  index: -1
+wyvern_tail_01
+  rotate: false
+  xy: 460, 515
+  size: 56, 75
+  orig: 56, 75
+  offset: 0, 0
+  index: -1
+wyvern_tail_02
+  rotate: false
+  xy: 784, 610
+  size: 53, 64
+  orig: 53, 64
+  offset: 0, 0
+  index: -1
+wyvern_tail_03
+  rotate: false
+  xy: 908, 569
+  size: 47, 55
+  orig: 47, 55
+  offset: 0, 0
+  index: -1
+wyvern_tail_04
+  rotate: false
+  xy: 908, 517
+  size: 37, 50
+  orig: 37, 50
+  offset: 0, 0
+  index: -1
+wyvern_tail_05
+  rotate: false
+  xy: 996, 567
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: -1
+wyvern_tail_06
+  rotate: false
+  xy: 421, 492
+  size: 37, 72
+  orig: 37, 72
+  offset: 0, 0
+  index: -1
+wyvern_tail_B_00
+  rotate: false
+  xy: 1951, 930
+  size: 83, 90
+  orig: 83, 90
+  offset: 0, 0
+  index: -1
+wyvern_tail_B_01
+  rotate: false
+  xy: 1368, 614
+  size: 58, 76
+  orig: 58, 76
+  offset: 0, 0
+  index: -1
+wyvern_tail_B_02
+  rotate: false
+  xy: 763, 542
+  size: 52, 66
+  orig: 52, 66
+  offset: 0, 0
+  index: -1
+wyvern_tail_B_03
+  rotate: false
+  xy: 858, 569
+  size: 48, 56
+  orig: 48, 56
+  offset: 0, 0
+  index: -1
+wyvern_tail_B_04
+  rotate: false
+  xy: 421, 566
+  size: 37, 51
+  orig: 37, 51
+  offset: 0, 0
+  index: -1
+wyvern_tail_B_05
+  rotate: false
+  xy: 483, 0
+  size: 32, 52
+  orig: 32, 52
+  offset: 0, 0
+  index: -1
+wyvern_tail_B_06
+  rotate: false
+  xy: 479, 439
+  size: 39, 74
+  orig: 39, 74
+  offset: 0, 0
+  index: -1
+wyvern_tail_C_00
+  rotate: false
+  xy: 328, 400
+  size: 83, 90
+  orig: 83, 90
+  offset: 0, 0
+  index: -1
+wyvern_tail_C_01
+  rotate: false
+  xy: 460, 592
+  size: 58, 76
+  orig: 58, 76
+  offset: 0, 0
+  index: -1
+wyvern_tail_C_02
+  rotate: false
+  xy: 708, 550
+  size: 53, 66
+  orig: 53, 66
+  offset: 0, 0
+  index: -1
+wyvern_tail_C_03
+  rotate: false
+  xy: 858, 511
+  size: 48, 56
+  orig: 48, 56
+  offset: 0, 0
+  index: -1
+wyvern_tail_C_04
+  rotate: false
+  xy: 957, 573
+  size: 37, 51
+  orig: 37, 51
+  offset: 0, 0
+  index: -1
+wyvern_tail_C_05
+  rotate: false
+  xy: 448, 0
+  size: 33, 52
+  orig: 33, 52
+  offset: 0, 0
+  index: -1
+wyvern_tail_C_06
+  rotate: false
+  xy: 817, 534
+  size: 39, 74
+  orig: 39, 74
+  offset: 0, 0
+  index: -1
+wyvern_thigh_00
+  rotate: false
+  xy: 1160, 622
+  size: 62, 79
+  orig: 62, 79
+  offset: 0, 0
+  index: -1
+wyvern_thigh_01
+  rotate: false
+  xy: 1224, 626
+  size: 72, 64
+  orig: 72, 64
+  offset: 0, 0
+  index: -1
+wyvern_wings_00
+  rotate: false
+  xy: 214, 492
+  size: 205, 170
+  orig: 205, 170
+  offset: 0, 0
+  index: -1
+wyvern_wings_01
+  rotate: false
+  xy: 0, 8
+  size: 212, 97
+  orig: 212, 97
+  offset: 0, 0
+  index: -1
+wyvern_wings_01-1
+  rotate: false
+  xy: 1432, 738
+  size: 212, 62
+  orig: 212, 62
+  offset: 0, 0
+  index: -1
+wyvern_wings_02
+  rotate: false
+  xy: 635, 676
+  size: 212, 97
+  orig: 212, 97
+  offset: 0, 0
+  index: -1
+wyvern_wings_03
+  rotate: false
+  xy: 428, 670
+  size: 205, 170
+  orig: 205, 170
+  offset: 0, 0
+  index: -1
+wyvern_wings_back_00
+  rotate: false
+  xy: 641, 850
+  size: 205, 170
+  orig: 205, 170
+  offset: 0, 0
+  index: -1
+wyvern_wings_back_01
+  rotate: false
+  xy: 1225, 692
+  size: 205, 108
+  orig: 205, 108
+  offset: 0, 0
+  index: -1
+wyvern_wings_back_02
+  rotate: false
+  xy: 1011, 703
+  size: 212, 97
+  orig: 212, 97
+  offset: 0, 0
+  index: -1
+wyvern_wings_back_03
+  rotate: false
+  xy: 848, 850
+  size: 205, 170
+  orig: 205, 170
+  offset: 0, 0
+  index: -1

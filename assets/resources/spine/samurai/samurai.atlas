@@ -1,0 +1,313 @@
+
+samurai.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eyes_00
+  rotate: false
+  xy: 326, 0
+  size: 64, 30
+  orig: 64, 30
+  offset: 0, 0
+  index: -1
+eyes_01
+  rotate: false
+  xy: 392, 0
+  size: 64, 30
+  orig: 64, 30
+  offset: 0, 0
+  index: -1
+eyes_02
+  rotate: false
+  xy: 519, 56
+  size: 52, 26
+  orig: 52, 26
+  offset: 0, 0
+  index: -1
+eyes_03
+  rotate: false
+  xy: 685, 8
+  size: 53, 22
+  orig: 53, 22
+  offset: 0, 0
+  index: -1
+eyes_04
+  rotate: false
+  xy: 610, 76
+  size: 64, 30
+  orig: 64, 30
+  offset: 0, 0
+  index: -1
+mon35_C1_01
+  rotate: false
+  xy: 592, 160
+  size: 93, 92
+  orig: 93, 92
+  offset: 0, 0
+  index: -1
+mon35_C1_02
+  rotate: false
+  xy: 758, 84
+  size: 46, 36
+  orig: 46, 36
+  offset: 0, 0
+  index: -1
+mon35_C1_03
+  rotate: false
+  xy: 536, 84
+  size: 72, 62
+  orig: 72, 62
+  offset: 0, 0
+  index: -1
+mon35_C1_04
+  rotate: false
+  xy: 0, 112
+  size: 141, 140
+  orig: 141, 140
+  offset: 0, 0
+  index: -1
+mon35_C1_05
+  rotate: false
+  xy: 859, 204
+  size: 105, 48
+  orig: 105, 48
+  offset: 0, 0
+  index: -1
+mon35_C1_06
+  rotate: false
+  xy: 966, 192
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+mon35_C1_07
+  rotate: false
+  xy: 744, 32
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+mon35_C1_08
+  rotate: false
+  xy: 458, 8
+  size: 62, 38
+  orig: 62, 38
+  offset: 0, 0
+  index: -1
+mon35_C1_09
+  rotate: false
+  xy: 326, 32
+  size: 84, 78
+  orig: 84, 78
+  offset: 0, 0
+  index: -1
+mon35_C1_10
+  rotate: false
+  xy: 859, 152
+  size: 82, 50
+  orig: 82, 50
+  offset: 0, 0
+  index: -1
+mon35_C1_11
+  rotate: false
+  xy: 806, 81
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+mon35_C1_12
+  rotate: false
+  xy: 740, 1
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+mon35_C1_13
+  rotate: false
+  xy: 778, 124
+  size: 57, 48
+  orig: 57, 48
+  offset: 0, 0
+  index: -1
+mon35_C1_14
+  rotate: false
+  xy: 944, 114
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+mon35_C1_15
+  rotate: false
+  xy: 0, 6
+  size: 161, 104
+  orig: 161, 104
+  offset: 0, 0
+  index: -1
+mon35_C2_04
+  rotate: false
+  xy: 143, 112
+  size: 141, 140
+  orig: 141, 140
+  offset: 0, 0
+  index: -1
+mon35_C2_05
+  rotate: false
+  xy: 429, 98
+  size: 105, 48
+  orig: 105, 48
+  offset: 0, 0
+  index: -1
+mon35_C2_06
+  rotate: false
+  xy: 581, 14
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+mon35_C2_07
+  rotate: false
+  xy: 788, 31
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+mon35_C2_08
+  rotate: false
+  xy: 943, 152
+  size: 62, 38
+  orig: 62, 38
+  offset: 0, 0
+  index: -1
+mon35_C2_09
+  rotate: false
+  xy: 687, 174
+  size: 84, 78
+  orig: 84, 78
+  offset: 0, 0
+  index: -1
+mon35_C2_10
+  rotate: false
+  xy: 610, 108
+  size: 82, 50
+  orig: 82, 50
+  offset: 0, 0
+  index: -1
+mon35_C2_11
+  rotate: false
+  xy: 852, 109
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+mon35_C2_12
+  rotate: false
+  xy: 776, 0
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+mon35_C2_13
+  rotate: false
+  xy: 522, 6
+  size: 57, 48
+  orig: 57, 48
+  offset: 0, 0
+  index: -1
+mon35_C2_14
+  rotate: false
+  xy: 976, 114
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+mon35_C2_15
+  rotate: false
+  xy: 429, 148
+  size: 161, 104
+  orig: 161, 104
+  offset: 0, 0
+  index: -1
+mon35_C3_04
+  rotate: false
+  xy: 286, 112
+  size: 141, 140
+  orig: 141, 140
+  offset: 0, 0
+  index: -1
+mon35_C3_05
+  rotate: false
+  xy: 412, 48
+  size: 105, 48
+  orig: 105, 48
+  offset: 0, 0
+  index: -1
+mon35_C3_06
+  rotate: false
+  xy: 633, 14
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+mon35_C3_07
+  rotate: false
+  xy: 832, 31
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+mon35_C3_08
+  rotate: false
+  xy: 694, 82
+  size: 62, 38
+  orig: 62, 38
+  offset: 0, 0
+  index: -1
+mon35_C3_09
+  rotate: false
+  xy: 773, 174
+  size: 84, 78
+  orig: 84, 78
+  offset: 0, 0
+  index: -1
+mon35_C3_10
+  rotate: false
+  xy: 694, 122
+  size: 82, 50
+  orig: 82, 50
+  offset: 0, 0
+  index: -1
+mon35_C3_11
+  rotate: false
+  xy: 898, 109
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+mon35_C3_12
+  rotate: false
+  xy: 812, 0
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+mon35_C3_13
+  rotate: false
+  xy: 685, 32
+  size: 57, 48
+  orig: 57, 48
+  offset: 0, 0
+  index: -1
+mon35_C3_14
+  rotate: false
+  xy: 876, 71
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+mon35_C3_15
+  rotate: false
+  xy: 163, 6
+  size: 161, 104
+  orig: 161, 104
+  offset: 0, 0
+  index: -1

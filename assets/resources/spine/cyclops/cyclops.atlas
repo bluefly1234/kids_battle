@@ -1,0 +1,453 @@
+
+cyclops.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cyclops_A_abdomen
+  rotate: false
+  xy: 314, 30
+  size: 133, 101
+  orig: 133, 101
+  offset: 0, 0
+  index: -1
+cyclops_A_arms_left_00
+  rotate: false
+  xy: 1061, 57
+  size: 76, 77
+  orig: 76, 77
+  offset: 0, 0
+  index: -1
+cyclops_A_arms_left_01
+  rotate: false
+  xy: 1300, 212
+  size: 105, 106
+  orig: 105, 106
+  offset: 0, 0
+  index: -1
+cyclops_A_arms_right_00
+  rotate: false
+  xy: 1761, 214
+  size: 72, 87
+  orig: 72, 87
+  offset: 0, 0
+  index: -1
+cyclops_A_arms_right_01
+  rotate: false
+  xy: 1946, 417
+  size: 92, 88
+  orig: 92, 88
+  offset: 0, 0
+  index: -1
+cyclops_A_chest
+  rotate: false
+  xy: 899, 339
+  size: 160, 166
+  orig: 160, 166
+  offset: 0, 0
+  index: -1
+cyclops_A_chin
+  rotate: false
+  xy: 1669, 219
+  size: 90, 82
+  orig: 90, 82
+  offset: 0, 0
+  index: -1
+cyclops_A_eye
+  rotate: false
+  xy: 1787, 336
+  size: 46, 21
+  orig: 46, 21
+  offset: 0, 0
+  index: -1
+cyclops_A_foot_left
+  rotate: false
+  xy: 684, 23
+  size: 102, 54
+  orig: 102, 54
+  offset: 0, 0
+  index: -1
+cyclops_A_foot_right
+  rotate: false
+  xy: 666, 186
+  size: 103, 55
+  orig: 103, 55
+  offset: 0, 0
+  index: -1
+cyclops_A_hand_left
+  rotate: false
+  xy: 1032, 230
+  size: 132, 107
+  orig: 132, 107
+  offset: 0, 0
+  index: -1
+cyclops_A_hand_right
+  rotate: false
+  xy: 471, 278
+  size: 213, 227
+  orig: 213, 227
+  offset: 0, 0
+  index: -1
+cyclops_A_head
+  rotate: false
+  xy: 436, 136
+  size: 100, 125
+  orig: 100, 125
+  offset: 0, 0
+  index: -1
+cyclops_A_leg_left_00
+  rotate: false
+  xy: 977, 136
+  size: 73, 92
+  orig: 73, 92
+  offset: 0, 0
+  index: -1
+cyclops_A_leg_left_01
+  rotate: false
+  xy: 1697, 166
+  size: 52, 51
+  orig: 52, 51
+  offset: 0, 0
+  index: -1
+cyclops_A_leg_right_00
+  rotate: false
+  xy: 977, 57
+  size: 82, 77
+  orig: 82, 77
+  offset: 0, 0
+  index: -1
+cyclops_A_leg_right_01
+  rotate: false
+  xy: 264, 224
+  size: 47, 37
+  orig: 47, 37
+  offset: 0, 0
+  index: -1
+cyclops_A_shoulder_left
+  rotate: false
+  xy: 314, 133
+  size: 120, 128
+  orig: 120, 128
+  offset: 0, 0
+  index: -1
+cyclops_A_shoulder_right
+  rotate: false
+  xy: 1819, 371
+  size: 125, 134
+  orig: 125, 134
+  offset: 0, 0
+  index: -1
+cyclops_A_skirts
+  rotate: false
+  xy: 1407, 220
+  size: 126, 109
+  orig: 126, 109
+  offset: 0, 0
+  index: -1
+cyclops_B_abdomen
+  rotate: false
+  xy: 686, 243
+  size: 134, 101
+  orig: 134, 101
+  offset: 0, 0
+  index: -1
+cyclops_B_arms_left_00
+  rotate: false
+  xy: 1835, 202
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+cyclops_B_arms_left_01
+  rotate: false
+  xy: 449, 28
+  size: 105, 106
+  orig: 105, 106
+  offset: 0, 0
+  index: -1
+cyclops_B_arms_right_00
+  rotate: false
+  xy: 1835, 281
+  size: 73, 88
+  orig: 73, 88
+  offset: 0, 0
+  index: -1
+cyclops_B_arms_right_01
+  rotate: false
+  xy: 1946, 327
+  size: 92, 88
+  orig: 92, 88
+  offset: 0, 0
+  index: -1
+cyclops_B_chest
+  rotate: false
+  xy: 0, 1
+  size: 186, 192
+  orig: 186, 192
+  offset: 0, 0
+  index: -1
+cyclops_B_chin
+  rotate: false
+  xy: 885, 152
+  size: 90, 82
+  orig: 90, 82
+  offset: 0, 0
+  index: -1
+cyclops_B_eye
+  rotate: false
+  xy: 1787, 313
+  size: 46, 21
+  orig: 46, 21
+  offset: 0, 0
+  index: -1
+cyclops_B_foot_left
+  rotate: false
+  xy: 1683, 303
+  size: 102, 54
+  orig: 102, 54
+  offset: 0, 0
+  index: -1
+cyclops_B_foot_right
+  rotate: false
+  xy: 771, 186
+  size: 102, 55
+  orig: 102, 55
+  offset: 0, 0
+  index: -1
+cyclops_B_hand_left
+  rotate: false
+  xy: 1166, 212
+  size: 132, 106
+  orig: 132, 106
+  offset: 0, 0
+  index: -1
+cyclops_B_hand_right
+  rotate: false
+  xy: 264, 263
+  size: 205, 242
+  orig: 205, 242
+  offset: 0, 0
+  index: -1
+cyclops_B_head
+  rotate: false
+  xy: 188, 62
+  size: 124, 131
+  orig: 124, 131
+  offset: 0, 0
+  index: -1
+cyclops_B_leg_left_00
+  rotate: false
+  xy: 822, 251
+  size: 73, 93
+  orig: 73, 93
+  offset: 0, 0
+  index: -1
+cyclops_B_leg_left_01
+  rotate: false
+  xy: 1697, 113
+  size: 52, 51
+  orig: 52, 51
+  offset: 0, 0
+  index: -1
+cyclops_B_leg_right_00
+  rotate: false
+  xy: 791, 17
+  size: 82, 77
+  orig: 82, 77
+  offset: 0, 0
+  index: -1
+cyclops_B_leg_right_01
+  rotate: false
+  xy: 1825, 163
+  size: 47, 37
+  orig: 47, 37
+  offset: 0, 0
+  index: -1
+cyclops_B_shoulder_left
+  rotate: false
+  xy: 686, 346
+  size: 211, 159
+  orig: 211, 159
+  offset: 0, 0
+  index: -1
+cyclops_B_shoulder_right
+  rotate: false
+  xy: 1223, 320
+  size: 156, 185
+  orig: 156, 185
+  offset: 0, 0
+  index: -1
+cyclops_B_skirts
+  rotate: false
+  xy: 538, 167
+  size: 126, 109
+  orig: 126, 109
+  offset: 0, 0
+  index: -1
+cyclops_C_abdomen
+  rotate: false
+  xy: 897, 236
+  size: 133, 101
+  orig: 133, 101
+  offset: 0, 0
+  index: -1
+cyclops_C_arms_left_00
+  rotate: false
+  xy: 1618, 140
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+cyclops_C_arms_left_01
+  rotate: false
+  xy: 684, 79
+  size: 105, 105
+  orig: 105, 105
+  offset: 0, 0
+  index: -1
+cyclops_C_arms_right_00
+  rotate: false
+  xy: 1751, 125
+  size: 72, 87
+  orig: 72, 87
+  offset: 0, 0
+  index: -1
+cyclops_C_arms_right_01
+  rotate: false
+  xy: 791, 96
+  size: 92, 88
+  orig: 92, 88
+  offset: 0, 0
+  index: -1
+cyclops_C_chest
+  rotate: false
+  xy: 1061, 339
+  size: 160, 166
+  orig: 160, 166
+  offset: 0, 0
+  index: -1
+cyclops_C_chin
+  rotate: false
+  xy: 885, 69
+  size: 90, 81
+  orig: 90, 81
+  offset: 0, 0
+  index: -1
+cyclops_C_eye
+  rotate: false
+  xy: 1874, 146
+  size: 46, 19
+  orig: 46, 19
+  offset: 0, 0
+  index: -1
+cyclops_C_foot_left
+  rotate: false
+  xy: 556, 0
+  size: 103, 54
+  orig: 103, 54
+  offset: 0, 0
+  index: -1
+cyclops_C_foot_right
+  rotate: false
+  xy: 188, 4
+  size: 103, 56
+  orig: 103, 56
+  offset: 0, 0
+  index: -1
+cyclops_C_hand_left
+  rotate: false
+  xy: 1535, 230
+  size: 132, 107
+  orig: 132, 107
+  offset: 0, 0
+  index: -1
+cyclops_C_hand_right
+  rotate: false
+  xy: 0, 195
+  size: 262, 310
+  orig: 262, 310
+  offset: 0, 0
+  index: -1
+cyclops_C_head
+  rotate: false
+  xy: 1683, 359
+  size: 134, 146
+  orig: 134, 146
+  offset: 0, 0
+  index: -1
+cyclops_C_leg_left_00
+  rotate: false
+  xy: 1052, 136
+  size: 73, 92
+  orig: 73, 92
+  offset: 0, 0
+  index: -1
+cyclops_C_leg_left_01
+  rotate: false
+  xy: 875, 16
+  size: 53, 51
+  orig: 53, 51
+  offset: 0, 0
+  index: -1
+cyclops_C_leg_right_00
+  rotate: false
+  xy: 1535, 151
+  size: 81, 77
+  orig: 81, 77
+  offset: 0, 0
+  index: -1
+cyclops_C_leg_right_01
+  rotate: false
+  xy: 1825, 124
+  size: 47, 37
+  orig: 47, 37
+  offset: 0, 0
+  index: -1
+cyclops_C_shoulder_left
+  rotate: false
+  xy: 1532, 339
+  size: 149, 166
+  orig: 149, 166
+  offset: 0, 0
+  index: -1
+cyclops_C_shoulder_right
+  rotate: false
+  xy: 1381, 331
+  size: 149, 174
+  orig: 149, 174
+  offset: 0, 0
+  index: -1
+cyclops_C_skirts
+  rotate: false
+  xy: 556, 56
+  size: 126, 109
+  orig: 126, 109
+  offset: 0, 0
+  index: -1
+cyclops_eye_00
+  rotate: false
+  xy: 264, 201
+  size: 46, 21
+  orig: 46, 21
+  offset: 0, 0
+  index: -1
+cyclops_eye_01
+  rotate: false
+  xy: 1910, 345
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+cyclops_eye_02
+  rotate: false
+  xy: 1127, 202
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+cyclops_eye_03
+  rotate: false
+  xy: 1874, 167
+  size: 47, 33
+  orig: 47, 33
+  offset: 0, 0
+  index: -1

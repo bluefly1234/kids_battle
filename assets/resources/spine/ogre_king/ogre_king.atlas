@@ -1,0 +1,579 @@
+
+ogre_king.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ogre_king_A_arms_left_00
+  rotate: false
+  xy: 801, 299
+  size: 93, 64
+  orig: 93, 64
+  offset: 0, 0
+  index: -1
+ogre_king_A_arms_left_01
+  rotate: false
+  xy: 1709, 296
+  size: 79, 95
+  orig: 79, 95
+  offset: 0, 0
+  index: -1
+ogre_king_A_arms_right_00
+  rotate: false
+  xy: 1252, 315
+  size: 53, 48
+  orig: 53, 48
+  offset: 0, 0
+  index: -1
+ogre_king_A_arms_right_01
+  rotate: false
+  xy: 1234, 210
+  size: 68, 71
+  orig: 68, 71
+  offset: 0, 0
+  index: -1
+ogre_king_A_axe
+  rotate: false
+  xy: 553, 338
+  size: 246, 170
+  orig: 246, 170
+  offset: 0, 0
+  index: -1
+ogre_king_A_body
+  rotate: false
+  xy: 801, 365
+  size: 168, 143
+  orig: 168, 143
+  offset: 0, 0
+  index: -1
+ogre_king_A_chin_left
+  rotate: false
+  xy: 1161, 158
+  size: 74, 47
+  orig: 74, 47
+  offset: 0, 0
+  index: -1
+ogre_king_A_chin_right
+  rotate: false
+  xy: 1375, 140
+  size: 66, 41
+  orig: 66, 41
+  offset: 0, 0
+  index: -1
+ogre_king_A_eyes_left_00
+  rotate: false
+  xy: 426, 155
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+ogre_king_A_eyes_left_01
+  rotate: false
+  xy: 1641, 221
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+ogre_king_A_eyes_right_00
+  rotate: false
+  xy: 779, 197
+  size: 50, 18
+  orig: 50, 18
+  offset: 0, 0
+  index: -1
+ogre_king_A_eyes_right_01
+  rotate: false
+  xy: 427, 52
+  size: 50, 18
+  orig: 50, 18
+  offset: 0, 0
+  index: -1
+ogre_king_A_foot_left
+  rotate: false
+  xy: 1978, 399
+  size: 66, 53
+  orig: 66, 53
+  offset: 0, 0
+  index: -1
+ogre_king_A_foot_right
+  rotate: false
+  xy: 1978, 454
+  size: 66, 54
+  orig: 66, 54
+  offset: 0, 0
+  index: -1
+ogre_king_A_hand_left
+  rotate: false
+  xy: 1086, 283
+  size: 81, 80
+  orig: 81, 80
+  offset: 0, 0
+  index: -1
+ogre_king_A_hand_right
+  rotate: false
+  xy: 328, 57
+  size: 97, 75
+  orig: 97, 75
+  offset: 0, 0
+  index: -1
+ogre_king_A_head_left
+  rotate: false
+  xy: 1655, 393
+  size: 99, 115
+  orig: 99, 115
+  offset: 0, 0
+  index: -1
+ogre_king_A_head_right
+  rotate: false
+  xy: 233, 89
+  size: 93, 114
+  orig: 93, 114
+  offset: 0, 0
+  index: -1
+ogre_king_A_leg_left
+  rotate: false
+  xy: 1014, 222
+  size: 68, 75
+  orig: 68, 75
+  offset: 0, 0
+  index: -1
+ogre_king_A_leg_right
+  rotate: false
+  xy: 868, 223
+  size: 71, 74
+  orig: 71, 74
+  offset: 0, 0
+  index: -1
+ogre_king_A_lower
+  rotate: false
+  xy: 1311, 393
+  size: 170, 115
+  orig: 170, 115
+  offset: 0, 0
+  index: -1
+ogre_king_A_oral_left
+  rotate: false
+  xy: 1237, 156
+  size: 66, 52
+  orig: 66, 52
+  offset: 0, 0
+  index: -1
+ogre_king_A_oral_right
+  rotate: false
+  xy: 1514, 226
+  size: 70, 32
+  orig: 70, 32
+  offset: 0, 0
+  index: -1
+ogre_king_A_shoulder_left
+  rotate: false
+  xy: 1867, 404
+  size: 109, 104
+  orig: 109, 104
+  offset: 0, 0
+  index: -1
+ogre_king_A_shoulder_right
+  rotate: false
+  xy: 328, 134
+  size: 96, 88
+  orig: 96, 88
+  offset: 0, 0
+  index: -1
+ogre_king_B_arms_left_00
+  rotate: false
+  xy: 896, 299
+  size: 93, 64
+  orig: 93, 64
+  offset: 0, 0
+  index: -1
+ogre_king_B_arms_left_01
+  rotate: false
+  xy: 1790, 306
+  size: 79, 95
+  orig: 79, 95
+  offset: 0, 0
+  index: -1
+ogre_king_B_arms_right_00
+  rotate: false
+  xy: 1649, 252
+  size: 53, 48
+  orig: 53, 48
+  offset: 0, 0
+  index: -1
+ogre_king_B_arms_right_01
+  rotate: false
+  xy: 1374, 238
+  size: 68, 71
+  orig: 68, 71
+  offset: 0, 0
+  index: -1
+ogre_king_B_axe
+  rotate: false
+  xy: 0, 12
+  size: 231, 191
+  orig: 231, 191
+  offset: 0, 0
+  index: -1
+ogre_king_B_body
+  rotate: false
+  xy: 971, 365
+  size: 168, 143
+  orig: 168, 143
+  offset: 0, 0
+  index: -1
+ogre_king_B_chin_left
+  rotate: false
+  xy: 1084, 225
+  size: 75, 56
+  orig: 75, 56
+  offset: 0, 0
+  index: -1
+ogre_king_B_chin_right
+  rotate: false
+  xy: 1084, 182
+  size: 75, 41
+  orig: 75, 41
+  offset: 0, 0
+  index: -1
+ogre_king_B_eyes_left_00
+  rotate: false
+  xy: 427, 103
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+ogre_king_B_eyes_left_01
+  rotate: false
+  xy: 427, 72
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+ogre_king_B_eyes_right_00
+  rotate: false
+  xy: 426, 134
+  size: 51, 19
+  orig: 51, 19
+  offset: 0, 0
+  index: -1
+ogre_king_B_eyes_right_01
+  rotate: false
+  xy: 565, 166
+  size: 51, 19
+  orig: 51, 19
+  offset: 0, 0
+  index: -1
+ogre_king_B_foot_left
+  rotate: false
+  xy: 1514, 260
+  size: 64, 54
+  orig: 64, 54
+  offset: 0, 0
+  index: -1
+ogre_king_B_foot_right
+  rotate: false
+  xy: 1375, 183
+  size: 65, 53
+  orig: 65, 53
+  offset: 0, 0
+  index: -1
+ogre_king_B_hand_left
+  rotate: false
+  xy: 1169, 283
+  size: 81, 80
+  orig: 81, 80
+  offset: 0, 0
+  index: -1
+ogre_king_B_hand_right
+  rotate: false
+  xy: 1417, 316
+  size: 97, 75
+  orig: 97, 75
+  offset: 0, 0
+  index: -1
+ogre_king_B_head_left
+  rotate: false
+  xy: 661, 260
+  size: 122, 76
+  orig: 122, 76
+  offset: 0, 0
+  index: -1
+ogre_king_B_head_right
+  rotate: false
+  xy: 1615, 302
+  size: 92, 89
+  orig: 92, 89
+  offset: 0, 0
+  index: -1
+ogre_king_B_leg_left
+  rotate: false
+  xy: 1304, 234
+  size: 68, 75
+  orig: 68, 75
+  offset: 0, 0
+  index: -1
+ogre_king_B_leg_right
+  rotate: false
+  xy: 941, 223
+  size: 71, 74
+  orig: 71, 74
+  offset: 0, 0
+  index: -1
+ogre_king_B_lower
+  rotate: false
+  xy: 1483, 393
+  size: 170, 115
+  orig: 170, 115
+  offset: 0, 0
+  index: -1
+ogre_king_B_oral_left
+  rotate: false
+  xy: 1704, 249
+  size: 66, 45
+  orig: 66, 45
+  offset: 0, 0
+  index: -1
+ogre_king_B_oral_right
+  rotate: false
+  xy: 1790, 265
+  size: 67, 39
+  orig: 67, 39
+  offset: 0, 0
+  index: -1
+ogre_king_B_shoulder_left
+  rotate: false
+  xy: 1756, 403
+  size: 109, 105
+  orig: 109, 105
+  offset: 0, 0
+  index: -1
+ogre_king_B_shoulder_right
+  rotate: false
+  xy: 1871, 309
+  size: 89, 93
+  orig: 89, 93
+  offset: 0, 0
+  index: -1
+ogre_king_C_arms_left_00
+  rotate: false
+  xy: 991, 299
+  size: 93, 64
+  orig: 93, 64
+  offset: 0, 0
+  index: -1
+ogre_king_C_arms_left_01
+  rotate: false
+  xy: 1962, 302
+  size: 79, 95
+  orig: 79, 95
+  offset: 0, 0
+  index: -1
+ogre_king_C_arms_right_00
+  rotate: false
+  xy: 1586, 210
+  size: 53, 48
+  orig: 53, 48
+  offset: 0, 0
+  index: -1
+ogre_king_C_arms_right_01
+  rotate: false
+  xy: 1444, 243
+  size: 68, 71
+  orig: 68, 71
+  offset: 0, 0
+  index: -1
+ogre_king_C_axe
+  rotate: false
+  xy: 258, 342
+  size: 293, 166
+  orig: 293, 166
+  offset: 0, 0
+  index: -1
+ogre_king_C_body
+  rotate: false
+  xy: 1141, 365
+  size: 168, 143
+  orig: 168, 143
+  offset: 0, 0
+  index: -1
+ogre_king_C_chin_left
+  rotate: false
+  xy: 323, 14
+  size: 81, 41
+  orig: 81, 41
+  offset: 0, 0
+  index: -1
+ogre_king_C_chin_right
+  rotate: false
+  xy: 661, 212
+  size: 73, 46
+  orig: 73, 46
+  offset: 0, 0
+  index: -1
+ogre_king_C_eyes_left_00
+  rotate: false
+  xy: 1252, 283
+  size: 42, 30
+  orig: 42, 30
+  offset: 0, 0
+  index: -1
+ogre_king_C_eyes_left_01
+  rotate: false
+  xy: 736, 228
+  size: 42, 30
+  orig: 42, 30
+  offset: 0, 0
+  index: -1
+ogre_king_C_eyes_right_00
+  rotate: false
+  xy: 868, 203
+  size: 51, 18
+  orig: 51, 18
+  offset: 0, 0
+  index: -1
+ogre_king_C_eyes_right_01
+  rotate: false
+  xy: 921, 203
+  size: 51, 18
+  orig: 51, 18
+  offset: 0, 0
+  index: -1
+ogre_king_C_foot_left
+  rotate: false
+  xy: 498, 178
+  size: 65, 53
+  orig: 65, 53
+  offset: 0, 0
+  index: -1
+ogre_king_C_foot_right
+  rotate: false
+  xy: 565, 187
+  size: 64, 53
+  orig: 64, 53
+  offset: 0, 0
+  index: -1
+ogre_king_C_hand_left
+  rotate: false
+  xy: 785, 217
+  size: 81, 80
+  orig: 81, 80
+  offset: 0, 0
+  index: -1
+ogre_king_C_hand_right
+  rotate: false
+  xy: 1516, 316
+  size: 97, 75
+  orig: 97, 75
+  offset: 0, 0
+  index: -1
+ogre_king_C_head_left
+  rotate: false
+  xy: 541, 242
+  size: 118, 94
+  orig: 118, 94
+  offset: 0, 0
+  index: -1
+ogre_king_C_head_right
+  rotate: false
+  xy: 1311, 311
+  size: 104, 80
+  orig: 104, 80
+  offset: 0, 0
+  index: -1
+ogre_king_C_leg_left
+  rotate: false
+  xy: 1305, 157
+  size: 68, 75
+  orig: 68, 75
+  offset: 0, 0
+  index: -1
+ogre_king_C_leg_right
+  rotate: false
+  xy: 1161, 207
+  size: 71, 74
+  orig: 71, 74
+  offset: 0, 0
+  index: -1
+ogre_king_C_lower
+  rotate: false
+  xy: 258, 224
+  size: 170, 116
+  orig: 170, 116
+  offset: 0, 0
+  index: -1
+ogre_king_C_mantle
+  rotate: false
+  xy: 0, 205
+  size: 256, 303
+  orig: 256, 303
+  offset: 0, 0
+  index: -1
+ogre_king_C_oral_left
+  rotate: false
+  xy: 430, 186
+  size: 66, 45
+  orig: 66, 45
+  offset: 0, 0
+  index: -1
+ogre_king_C_oral_right
+  rotate: false
+  xy: 1580, 260
+  size: 67, 40
+  orig: 67, 40
+  offset: 0, 0
+  index: -1
+ogre_king_C_shoulder_left
+  rotate: false
+  xy: 430, 233
+  size: 109, 107
+  orig: 109, 107
+  offset: 0, 0
+  index: -1
+ogre_king_C_shoulder_right
+  rotate: false
+  xy: 233, 0
+  size: 88, 87
+  orig: 88, 87
+  offset: 0, 0
+  index: -1
+ogre_king_eyes_left_00
+  rotate: false
+  xy: 736, 197
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+ogre_king_eyes_left_01
+  rotate: false
+  xy: 1442, 192
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+ogre_king_eyes_left_02
+  rotate: false
+  xy: 1443, 161
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+ogre_king_eyes_right_00
+  rotate: false
+  xy: 1444, 223
+  size: 50, 18
+  orig: 50, 18
+  offset: 0, 0
+  index: -1
+ogre_king_eyes_right_01
+  rotate: false
+  xy: 1443, 141
+  size: 50, 18
+  orig: 50, 18
+  offset: 0, 0
+  index: -1
+ogre_king_eyes_right_02
+  rotate: false
+  xy: 1871, 289
+  size: 50, 18
+  orig: 50, 18
+  offset: 0, 0
+  index: -1

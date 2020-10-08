@@ -1,0 +1,376 @@
+
+death_knight.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+death_knight_A_arms_left
+  rotate: false
+  xy: 1693, 376
+  size: 102, 132
+  orig: 102, 132
+  offset: 0, 0
+  index: -1
+death_knight_A_arms_right
+  rotate: false
+  xy: 312, 49
+  size: 56, 124
+  orig: 56, 124
+  offset: 0, 0
+  index: -1
+death_knight_A_body
+  rotate: false
+  xy: 610, 266
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+death_knight_A_chin
+  rotate: false
+  xy: 208, 0
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+death_knight_A_foot
+  rotate: false
+  xy: 702, 188
+  size: 60, 48
+  orig: 60, 48
+  offset: 0, 0
+  index: -1
+death_knight_A_head
+  rotate: false
+  xy: 1560, 393
+  size: 131, 115
+  orig: 131, 115
+  offset: 0, 0
+  index: -1
+death_knight_A_horse_deco
+  rotate: false
+  xy: 428, 116
+  size: 62, 118
+  orig: 62, 118
+  offset: 0, 0
+  index: -1
+death_knight_A_horse_foot_00
+  rotate: false
+  xy: 2005, 394
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+death_knight_A_horse_foot_01
+  rotate: false
+  xy: 1129, 334
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+death_knight_A_horse_head
+  rotate: false
+  xy: 0, 0
+  size: 102, 142
+  orig: 102, 142
+  offset: 0, 0
+  index: -1
+death_knight_A_horse_legs_00
+  rotate: false
+  xy: 1010, 316
+  size: 52, 50
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+death_knight_A_horse_legs_01
+  rotate: false
+  xy: 1101, 314
+  size: 26, 52
+  orig: 26, 52
+  offset: 0, 0
+  index: -1
+death_knight_A_horse_legs_02
+  rotate: false
+  xy: 2002, 322
+  size: 42, 52
+  orig: 42, 52
+  offset: 0, 0
+  index: -1
+death_knight_A_horse_legs_03
+  rotate: false
+  xy: 1064, 317
+  size: 35, 49
+  orig: 35, 49
+  offset: 0, 0
+  index: -1
+death_knight_A_horse_neck
+  rotate: false
+  xy: 1560, 291
+  size: 112, 100
+  orig: 112, 100
+  offset: 0, 0
+  index: -1
+death_knight_A_horse_reins_00
+  rotate: false
+  xy: 418, 236
+  size: 62, 120
+  orig: 62, 120
+  offset: 0, 0
+  index: -1
+death_knight_A_horse_reins_01
+  rotate: false
+  xy: 2005, 426
+  size: 38, 82
+  orig: 38, 82
+  offset: 0, 0
+  index: -1
+death_knight_A_horse_saddle
+  rotate: false
+  xy: 720, 368
+  size: 158, 140
+  orig: 158, 140
+  offset: 0, 0
+  index: -1
+death_knight_A_lower
+  rotate: false
+  xy: 372, 358
+  size: 172, 150
+  orig: 172, 150
+  offset: 0, 0
+  index: -1
+death_knight_A_shield
+  rotate: false
+  xy: 1200, 348
+  size: 118, 160
+  orig: 118, 160
+  offset: 0, 0
+  index: -1
+death_knight_A_sword
+  rotate: false
+  xy: 0, 327
+  size: 184, 181
+  orig: 184, 181
+  offset: 0, 0
+  index: -1
+death_knight_B_arms_left
+  rotate: false
+  xy: 1797, 376
+  size: 102, 132
+  orig: 102, 132
+  offset: 0, 0
+  index: -1
+death_knight_B_arms_right
+  rotate: false
+  xy: 360, 201
+  size: 56, 124
+  orig: 56, 124
+  offset: 0, 0
+  index: -1
+death_knight_B_body
+  rotate: false
+  xy: 492, 144
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+death_knight_B_chin
+  rotate: false
+  xy: 250, 0
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+death_knight_B_head
+  rotate: false
+  xy: 1902, 291
+  size: 98, 83
+  orig: 98, 83
+  offset: 0, 0
+  index: -1
+death_knight_B_horse_deco
+  rotate: false
+  xy: 702, 238
+  size: 62, 118
+  orig: 62, 118
+  offset: 0, 0
+  index: -1
+death_knight_B_horse_head
+  rotate: false
+  xy: 104, 0
+  size: 102, 142
+  orig: 102, 142
+  offset: 0, 0
+  index: -1
+death_knight_B_horse_neck
+  rotate: false
+  xy: 1674, 274
+  size: 112, 100
+  orig: 112, 100
+  offset: 0, 0
+  index: -1
+death_knight_B_horse_reins_00
+  rotate: false
+  xy: 482, 236
+  size: 62, 120
+  orig: 62, 120
+  offset: 0, 0
+  index: -1
+death_knight_B_horse_reins_01
+  rotate: false
+  xy: 930, 284
+  size: 38, 82
+  orig: 38, 82
+  offset: 0, 0
+  index: -1
+death_knight_B_horse_saddle
+  rotate: false
+  xy: 880, 368
+  size: 158, 140
+  orig: 158, 140
+  offset: 0, 0
+  index: -1
+death_knight_B_lower
+  rotate: false
+  xy: 186, 175
+  size: 172, 150
+  orig: 172, 150
+  offset: 0, 0
+  index: -1
+death_knight_B_shield
+  rotate: false
+  xy: 1320, 348
+  size: 118, 160
+  orig: 118, 160
+  offset: 0, 0
+  index: -1
+death_knight_B_sword
+  rotate: false
+  xy: 0, 144
+  size: 184, 181
+  orig: 184, 181
+  offset: 0, 0
+  index: -1
+death_knight_C_arms_left
+  rotate: false
+  xy: 1901, 376
+  size: 102, 132
+  orig: 102, 132
+  offset: 0, 0
+  index: -1
+death_knight_C_arms_right
+  rotate: false
+  xy: 370, 75
+  size: 56, 124
+  orig: 56, 124
+  offset: 0, 0
+  index: -1
+death_knight_C_body
+  rotate: false
+  xy: 610, 174
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+death_knight_C_chin
+  rotate: false
+  xy: 372, 327
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+death_knight_C_head
+  rotate: false
+  xy: 830, 285
+  size: 98, 81
+  orig: 98, 81
+  offset: 0, 0
+  index: -1
+death_knight_C_horse_deco
+  rotate: false
+  xy: 766, 248
+  size: 62, 118
+  orig: 62, 118
+  offset: 0, 0
+  index: -1
+death_knight_C_horse_head
+  rotate: false
+  xy: 208, 31
+  size: 102, 142
+  orig: 102, 142
+  offset: 0, 0
+  index: -1
+death_knight_C_horse_neck
+  rotate: false
+  xy: 1788, 274
+  size: 112, 100
+  orig: 112, 100
+  offset: 0, 0
+  index: -1
+death_knight_C_horse_reins_00
+  rotate: false
+  xy: 546, 236
+  size: 62, 120
+  orig: 62, 120
+  offset: 0, 0
+  index: -1
+death_knight_C_horse_reins_01
+  rotate: false
+  xy: 970, 284
+  size: 38, 82
+  orig: 38, 82
+  offset: 0, 0
+  index: -1
+death_knight_C_horse_saddle
+  rotate: false
+  xy: 1040, 368
+  size: 158, 140
+  orig: 158, 140
+  offset: 0, 0
+  index: -1
+death_knight_C_lower
+  rotate: false
+  xy: 546, 358
+  size: 172, 150
+  orig: 172, 150
+  offset: 0, 0
+  index: -1
+death_knight_C_shield
+  rotate: false
+  xy: 1440, 348
+  size: 118, 160
+  orig: 118, 160
+  offset: 0, 0
+  index: -1
+death_knight_C_sword
+  rotate: false
+  xy: 186, 327
+  size: 184, 181
+  orig: 184, 181
+  offset: 0, 0
+  index: -1
+death_knight_eyes_00
+  rotate: false
+  xy: 428, 93
+  size: 44, 21
+  orig: 44, 21
+  offset: 0, 0
+  index: -1
+death_knight_eyes_01
+  rotate: false
+  xy: 492, 121
+  size: 44, 21
+  orig: 44, 21
+  offset: 0, 0
+  index: -1
+death_knight_eyes_02
+  rotate: false
+  xy: 370, 52
+  size: 46, 21
+  orig: 46, 21
+  offset: 0, 0
+  index: -1
+death_knight_eyes_03
+  rotate: false
+  xy: 830, 262
+  size: 44, 21
+  orig: 44, 21
+  offset: 0, 0
+  index: -1
