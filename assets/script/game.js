@@ -1,3 +1,4 @@
+/*jshint esversion: 6 */
 const util = require('./util/util');
 
 cc.Class({
@@ -171,16 +172,21 @@ cc.Class({
         // 用户信息
         this.playerUserInfo = {
             avatar: '',
-            nickname: '',
+            nickname: '玩家',
             openId: ''
         };
         this.opponentUserInfo = {
             avatar: '',
-            nickname: '',
+            nickname: '敌人',
             openId: ''
         };
         this.carrier = {
-            curAttackPower: 0
+            curAttackPower: 0,
+            isCrit: false,
+            isNirvana: false,
+            isDodge: false,
+            isCounterattack: false,
+            isDeath: false
         };
         // 加载完成
         this.rolesLoaded = {
@@ -189,8 +195,26 @@ cc.Class({
         };
     },
 
+    remarkCarrier({
+        curAttackPower = 0,
+        isCrit = false,
+        isNirvana = false,
+        isDodge = false,
+        isCounterattack = false,
+        isDeath = false
+    }) {
+        this.carrier.curAttackPower = curAttackPower;
+        this.carrier.isCrit = isCrit;
+        this.carrier.isNirvana = isNirvana;
+        this.carrier.isDodge = isDodge;
+        this.carrier.isCounterattack = isCounterattack;
+        this.carrier.isDeath = isDeath;
+    },
+
     // 重制游戏
-    remarkGame() {},
+    remarkGame() {
+
+    },
 
     // 加载游戏角色
     onLoadRole(event) {
@@ -241,7 +265,7 @@ cc.Class({
 
     setRoleAnimation(role) {
         // 储存当前人物动画
-        var roleAnimation = {
+        const roleAnimation = {
             attacks: [], // 攻击动作
             skills: [],  // 技能
             hit: 'hit', // 被打
@@ -250,7 +274,7 @@ cc.Class({
             default: 'default'  // 默认动作
         };
 
-        var animations = [];
+        const animations = [];
         // 去掉 end 动作
         Object.keys(this[`${role}Role`].skeletonData.skeletonJson.animations).forEach(item => {
             item.includes('end') || animations.push(item);
@@ -267,13 +291,14 @@ cc.Class({
     onRoleLoaded(event) {
         this.rolesLoaded[event] = true;
         if(this.rolesLoaded.player && this.rolesLoaded.opponent) {
+            this.bindSpineListener();
             this.onStartGame();
         }
     },
 
     bindSpineListener() {
-        this.playerRole.setEndListener(playerAnimationEndListener);
-        this.opponentRole.setEndListener(opponentAnimationEndListener);
+        this.playerRole.setEndListener((event)=>{this.playerAnimationEndListener(event)});
+        this.opponentRole.setEndListener((event)=>{this.opponentAnimationEndListener(event)});
     },
 
     initRoleValue() {
@@ -288,16 +313,15 @@ cc.Class({
         // 渲染用户昵称与头像
     },
 
+    // 随机两个用户的属性
     getRoleValue() {
-        // 随机两个用户的属性
-        
         // 设置随机点数
-        var playerValueNumber = this.playerValue.otherValue.defaultValueNumber + this.playerValue.otherValue.level;
-        var opponentValueNumber = this.opponentValue.otherValue.defaultValueNumber + this.opponentValue.otherValue.level;
+        const playerValueNumber = this.playerValue.otherValue.defaultValueNumber + this.playerValue.otherValue.level;
+        const opponentValueNumber = this.opponentValue.otherValue.defaultValueNumber + this.opponentValue.otherValue.level;
 
         // 获取点数列表
-        var playerValueList = util.randomItemsNumber(Object.keys(this.playerValue.characteristic).length, playerValueNumber);
-        var opponentValueList = util.randomItemsNumber(Object.keys(this.opponentValue.characteristic).length, opponentValueNumber);
+        let playerValueList = util.randomItemsNumber(Object.keys(this.playerValue.characteristic).length, playerValueNumber);
+        let opponentValueList = util.randomItemsNumber(Object.keys(this.opponentValue.characteristic).length, opponentValueNumber);
         
         // 乱序属性
         playerValueList = util.shuffle(playerValueList);
@@ -317,7 +341,7 @@ cc.Class({
     },
 
     getRoleSkill() {
-        // 技能没有相应的接口，前端写死之后加
+        // 技能没有相应的接口, 前端写死之后加
     },
 
     triggerPassiveMagic() {
@@ -343,25 +367,25 @@ cc.Class({
         // 暂时用文本代替一下吧
         this.battleText.string = '战斗开始';
         this.playerHealthText.string = `${this.playerValue.healthValue.cur} / ${this.playerValue.healthValue.max}`;
-        this.opponentHealthText.string = `${this.opponentValue.healthValue.cur} / ${this.opponentValue.healthValue.cur}`;
+        this.opponentHealthText.string = `${this.opponentValue.healthValue.cur} / ${this.opponentValue.healthValue.max}`;
     },
 
     startRoleAction() {
         // 获取谁先手
-        var firstRole = Math.random() < 0.5 ? 'player' : 'opponent';
+        const firstRole = Math.random() < 0.5 ? 'player' : 'opponent';
 
-        // this[`${firstRole}Attack`]();
-        this.playerAttack();
+        this[`${firstRole}Attack`]();
     },
 
     // 计算攻击力
     getAttackPower(curRole) {
-        return this[`${curRole}Value`].characteristic.power;
+        const standard = 1.25;
+        return this[`${curRole}Value`].characteristic.power * standard;
     },
 
     // 计算伤害
     getHarm(curRole) {
-        var harm = this.carrier.curAttackPower -  Math.floor(this[`${curRole}Value`].characteristic.strength * 0.5);
+        let harm = this.carrier.curAttackPower -  Math.floor(this[`${curRole}Value`].characteristic.strength * 0.5);
         // 设定最小伤害
         harm < 2 ? harm = 2 : 0 ;
         return harm;
@@ -369,27 +393,27 @@ cc.Class({
 
     // 判断是否暴击
     isCrit(curRole) {
-        var standard = 20;
+        const standard = 20;
         return this[`${curRole}Value`].characteristic.charm > Math.random() * standard;
     },
 
     // 判断是否一击必杀
     isNirvana(curRole) {
-        var standard = 100;
-        return this[`${curRole}Value`].characteristic.charm > Math.random() * luck;
+        const standard = 100;
+        return this[`${curRole}Value`].characteristic.charm > Math.random() * standard;
     },
 
     // 判断是否闪避
     isDodge(curRole) {
-        var otherRole = curRole === 'player' ? 'opponent' : 'player';
-        var standard = 50;
+        const otherRole = curRole === 'player' ? 'opponent' : 'player';
+        const standard = 50;
         return this[`${curRole}Value`].characteristic.agilityA - this[`${otherRole}Value`].characteristic.agilityA > Math.random() * standard;
     },
 
     // 判断是否反击
     isCounterattack(curRole) {
-        var otherRole = curRole === 'player' ? 'opponent' : 'player';
-        var standard = 150;
+        const otherRole = curRole === 'player' ? 'opponent' : 'player';
+        const standard = 150;
         return this[`${curRole}Value`].characteristic.luck - this[`${otherRole}Value`].characteristic.luck > Math.random() * standard;
     },
 
@@ -399,86 +423,214 @@ cc.Class({
     },
 
     // 设置战斗文本
-    setBattleText(curRole, proposal) {
+    setBattleText(curRole, proposal, curHarm) {
+        const otherRole = curRole === 'player' ? 'opponent' : 'player';
+        const curRoleName = this[`${curRole}UserInfo`].nickname;
+        const otherRoleName = this[`${otherRole}UserInfo`].nickname;
+        let battleText = '';
         const proposals = {
             start: '战斗开始',
-            attack: '玩家1对玩家2发动攻击',
-            crit: ['玩家1对玩家2发动暴烈攻击'],
-            nirvana: ['玩家1对玩家2发起全力一击'],
-            defense: '玩家1对玩家2造成了2点伤害'
-            dodge: ['玩家2闪避了攻击'],
-            counterattack: ['玩家2发起了反击'],
+            attack: `${curRoleName}对${otherRoleName}发动了进攻`,
+            crit: [`${curRoleName}对${otherRoleName}发动了猛烈的进攻`],
+            nirvana: [`${curRoleName}对${otherRoleName}发起全力一击`],
+            defense: `${otherRoleName}对${curRoleName}造成了${curHarm}点伤害`,
+            dodge: [`${otherRoleName}闪避了攻击`],
+            counterattack: [`${otherRoleName}发起了反击`],
             over: '游戏结束'
         };
         // 如果是数组则随机一个
-
-        // 如果是字符串则直接设置
-        this.battleText.string = text;
+        if(Array.isArray(proposals[proposal])){
+            battleText = proposals[proposal][util.randomOneNumber(0,proposals[proposal].length-1)];
+        }else{
+            battleText = this.battleText.string = proposals[proposal];
+        }
+        console.log('battleText is :', battleText);
+        this.battleText.string = battleText;
     },
 
     // 设置动画
     playAnimation(curRole, animation) {
+        const otherRole = curRole === 'player' ? 'opponent' : 'player';
         switch(animation) {
             case 'attack':
                 // 从攻击动画中随机一个
-                var attackAnimation = this[`${curRole}Animation`].attacks[util.randomOneNumber(0,this[`${curRole}Animation`].attacks.length-1)];
-                this[`${curRole}Role`].setAnimation(attackAnimation);
-                this[`${curRole}Role`].setAnimation(`${attackAnimation}end`);
-                this[`${curRole}Role`].setAnimation('default');
+                const attackAnimation = this[`${curRole}Animation`].attacks.length > 0 ? 
+                    this[`${curRole}Animation`].attacks[util.randomOneNumber(0,this[`${curRole}Animation`].attacks.length-1)] : 
+                    this[`${curRole}Animation`].skills[util.randomOneNumber(0,this[`${curRole}Animation`].skills.length-1)];
+                this[`${curRole}Role`].setAnimation(0, attackAnimation, false);
+                this[`${curRole}Role`].addAnimation(0, `${attackAnimation}end`, false);
+                this[`${curRole}Role`].addAnimation(0, 'default', true);
                 break;
             case 'skill':
-                var skillAnimation = this[`${curRole}Animation`].skills.length > 0 ? 
+                const skillAnimation = this[`${curRole}Animation`].skills.length > 0 ? 
                     this[`${curRole}Animation`].skills[util.randomOneNumber(0,this[`${curRole}Animation`].skills.length-1)] : 
                     this[`${curRole}Animation`].attacks[util.randomOneNumber(0,this[`${curRole}Animation`].attacks.length-1)];
-                this[`${curRole}Role`].setAnimation(attackAnimation);
-                this[`${curRole}Role`].setAnimation(`${attackAnimation}end`);
-                this[`${curRole}Role`].setAnimation('default');
+                this[`${curRole}Role`].setAnimation(0, skillAnimation, false);
+                this[`${curRole}Role`].addAnimation(0, `${skillAnimation}end`, false);
+                this[`${curRole}Role`].addAnimation(0, 'default', true);
                 break;
-            case 'die': 
+            case 'hit':
+                this[`${curRole}Role`].setAnimation(0, 'hit', false);
+                this[`${curRole}Role`].addAnimation(0, 'default', true);
+                break;
+            case 'stun':
+                this[`${curRole}Role`].setAnimation(0, 'stun', false);
+                this[`${curRole}Role`].addAnimation(0, 'default', true);
+                break;
+            case 'die':
+                this[`${curRole}Role`].setAnimation(0, 'die', false);
                 break;
         }
     },
 
     // 动画完成函数
     playerAnimationEndListener(event) {
-        console.log(event)
+        const animationName = event['animation']['name'];
+        if (animationName.includes('end') || animationName.includes('default')) { return ''; }
+        if (animationName.includes('attack') || animationName.includes('skill')) {
+            this.opponentDefense();
+        }
+        if (animationName.includes('hit') || animationName.includes('stun')) {
+            this.playerAttack();
+        }
+        if (animationName.includes('die')) {
+            this.gameOver();
+        }
     },
 
     opponentAnimationEndListener(event) {
-        console.log(event)
+        const animationName = event['animation']['name'];
+        if (animationName.includes('end') || animationName.includes('default')) { return ''; }
+        if (animationName.includes('attack') || animationName.includes('skill')) {
+            this.playerDefense();
+        }
+        if (animationName.includes('hit') || animationName.includes('stun')) {
+            this.opponentAttack();
+        }
+        if (animationName.includes('die')) {
+            this.gameOver();
+        }
     },
 
     // 玩家攻击
     playerAttack() {
-        var curRole = 'player';
-        var proposals = 'attack'
-        var curAttackPower = this.getAttackPower(curRole);
-        var isNirvana = this.isNirvana(curRole);
-        var isCrit =  this.isCrit(curRole);
+        const curRole = 'player';
+        let proposal = 'hit';
+        let curAttackPower = this.getAttackPower(curRole);
+        const isNirvana = this.isNirvana(curRole);
+        const isCrit =  this.isCrit(curRole);
         // 计算伤害
         curAttackPower = isNirvana ? curAttackPower * 10 : isCrit ? curAttackPower * 2 : curAttackPower;
 
-        proposals = isNirvana ? 'nirvana' : isCrit ? 'crit' : 'attack';
+        proposal = isNirvana ? 'nirvana' : isCrit ? 'crit' : 'attack';
+
+        this.remarkCarrier({curAttackPower, isCrit, isNirvana});
 
         // 播放攻击动画
         this.playAnimation(curRole, isNirvana || isCrit ? 'skill' : 'attack');
-        this.setBattleText(curRole, proposals);
+        this.setBattleText(curRole, proposal);
     },
 
     playerDefense() {
+        const curRole = 'player';
+        let proposal = 'defense';
+        const curAttackPower = this.carrier.curAttackPower;
+        const isDodge = this.isDodge(curRole);
+        const isCounterattack =  this.isCounterattack(curRole);
 
+        let curHarm = Math.floor(curAttackPower - this.playerValue.characteristic.strength * 0.5);
+
+        this.remarkCarrier({isDodge, isCounterattack});
+
+        if(curHarm < 2) curHarm = 2;
+
+        if(!isDodge){
+            // 没有闪避
+            if(isCounterattack){
+                proposal = 'counterattack';
+                // 反击
+                this.playAnimation(curRole, 'attack');
+                this.setBattleText(curRole, proposal);
+            }else{
+                this.playerValue.healthValue.cur -= curHarm;
+                if( this.playerValue.healthValue.cur < 0) this.playerValue.healthValue.cur = 0;
+                this.playerHealthText.string = `${this.playerValue.healthValue.cur} / ${this.playerValue.healthValue.max}`;
+
+                if(this.isDeath(curRole)) {
+                    this.playAnimation(curRole, 'die');
+                }else{
+                    // 播放防御
+                    this.playAnimation(curRole, this.carrier.isCrit || this.carrier.isNirvana ? 'stun' : 'hit');
+                    this.setBattleText(curRole, proposal, curHarm);
+                }
+            }
+        }else{
+            // 闪避成功
+            proposal = 'dodge';
+            this.playAnimation(curRole, 'hit');
+            this.setBattleText(curRole, proposal);
+        }        
     },
 
     opponentAttack() {
+        const curRole = 'opponent';
+        let proposal = 'attack'
+        let curAttackPower = this.getAttackPower(curRole);
+        const isNirvana = this.isNirvana(curRole);
+        const isCrit =  this.isCrit(curRole);
+        // 计算伤害
+        curAttackPower = isNirvana ? curAttackPower * 10 : isCrit ? curAttackPower * 2 : curAttackPower;
 
+        proposal = isNirvana ? 'nirvana' : isCrit ? 'crit' : 'attack';
+
+        this.remarkCarrier({curAttackPower, isCrit, isNirvana});
+
+        // 播放攻击动画
+        this.playAnimation(curRole, isNirvana || isCrit ? 'skill' : 'attack');
+        this.setBattleText(curRole, proposal);
     },
 
     opponentDefense() {
+        const curRole = 'opponent';
+        const proposal = 'defense';
+        const curAttackPower = this.carrier.curAttackPower;
+        const isDodge = this.isDodge(curRole);
+        const isCounterattack =  this.isCounterattack(curRole);
 
+        let curHarm = Math.floor(curAttackPower - this.playerValue.characteristic.strength * 0.5);
+
+        this.remarkCarrier({isDodge, isCounterattack});
+
+        if(curHarm < 2) curHarm = 2;
+
+        if(!isDodge){
+            // 没有闪避
+            if(isCounterattack){
+                // 反击
+                this.playAnimation(curRole, 'attack');
+                this.setBattleText(curRole, proposal);
+            }else{
+                this.opponentValue.healthValue.cur -= curHarm;
+                if( this.opponentValue.healthValue.cur < 0) this.opponentValue.healthValue.cur = 0;
+                this.opponentHealthText.string = `${this.opponentValue.healthValue.cur} / ${this.opponentValue.healthValue.max}`;
+
+                if(this.isDeath(curRole)) {
+                    this.playAnimation(curRole, 'die');
+                }else{
+                    // 播放防御
+                    this.playAnimation(curRole, this.carrier.isCrit || this.carrier.isNirvana ? 'stun' : 'hit');
+                    this.setBattleText(curRole, proposal, curHarm);
+                }
+            }
+        }else{
+            // 闪避成功
+            this.playAnimation(curRole, 'hit');
+            this.setBattleText(curRole, proposal);
+        }
     },
 
     gameOver() {
-
+        console.log('游戏结束');
     },
 
 });
